@@ -1,0 +1,162 @@
+﻿fixtures found: 20
+   fixture-shelf-main [
+  [ -2.6999999046325684, 0, -4.0125000001862645 ],
+  [ 1.9999999046325683, 2.592837963001315, -3.167970708012581 ]
+]
+   fixture-card-rack [
+  [ 1.840758206816838, 0, -4.062500000186264 ],
+  [ 3.650000011920929, 2.701, -3.8430000002495945 ]
+]
+   fixture-pegboard [
+  [ -3.85, -4.768371586472142e-8, -3.9325000001862644 ],
+  [ -2.8253327548503875, 2.400000047683716, -3.8135000000596047 ]
+]
+   fixture-rail [
+  [ -4.300000000745058, -0.0005000001862645147, 0.49000000134110455 ],
+  [ -2.5999999992549423, 2.0346000008285046, 0.6099999986588955 ]
+]
+   fixture-window [
+  [ 2.532499999925494, 1.882499999925494, -0.4100000001490116 ],
+  [ 4.767500000074506, 3.8175000000745056, -0.3399999998509884 ]
+]
+   fixture-ledge [
+  [ 2.300000023841858, 0.3499999970197678, -0.5877048075199127 ],
+  [ 4.599999976158142, 0.711360242758706, -0.22999998331069949 ]
+]
+   fixture-worktable [
+  [ -1.7999999523162842, 0.004398971340374147, -0.8157236844301224 ],
+  [ 1.7999999523162842, 0.9977519945144653, 0.50625 ]
+]
+   fixture-table-cloth [
+  [ 1.2320000000000002, 1.3113021835042815e-8, 1.1250000059604646 ],
+  [ 3.25, 1.0552543540204569, 2.0749999940395356 ]
+]
+   fixture-trestle-small [
+  [ -3.074999976158142, 0.0034023119157402526, 1.3300000131130219 ],
+  [ -1.5250000238418577, 1.0879999995231628, 2.169999986886978 ]
+]
+   fixture-plinth-ent [
+  [ -1.925000011920929, -2.384185793236071e-9, 2.724999988079071 ],
+  [ -1.074999988079071, 0.9302097635991018, 3.5749999821186065 ]
+]
+   fixture-crate-low [
+  [ 1.2416038816195405, -0.010000000074505806, 2.8374999998137356 ],
+  [ 2.2565991168808166, 0.8725997395688679, 3.562499999254942 ]
+]
+   fixture-basket [
+  [ 0.5280000030994415, 0.002000000223517418, 3.2780000030994416 ],
+  [ 1.210333900508448, 0.8106433235235893, 3.9219999969005586 ]
+]
+   fixture-canopy-0 [
+  [ -2.300000011920929, 3.119999988079071, -3.5000000953674317 ],
+  [ -1.699999988079071, 3.4200000154968433, 2.3000000953674316 ]
+]
+   fixture-canopy-1 [
+  [ -0.9000000119209289, 3.119999988079071, -3.5000000953674317 ],
+  [ -0.299999988079071, 3.4200000154968433, 2.3000000953674316 ]
+]
+   fixture-canopy-2 [
+  [ 0.4999999880790711, 3.119999988079071, -3.5000000953674317 ],
+  [ 1.100000011920929, 3.4200000154968433, 2.3000000953674316 ]
+]
+   fixture-pendant-0 [
+  [ -1.930000004172325, 2.584, -2.130000004172325 ],
+  [ -1.4699999958276748, 3.1200000047683716, -1.6699999958276748 ]
+]
+   fixture-pendant-1 [
+  [ 0.6699999958276749, 2.584, 0.6699999958276749 ],
+  [ 1.130000004172325, 3.1200000047683716, 1.130000004172325 ]
+]
+   fixture-pendant-2 [
+  [ 1.4699999958276748, 2.584, -2.8300000041723252 ],
+  [ 1.930000004172325, 3.1200000047683716, -2.369999995827675 ]
+]
+   fixture-memory-board [
+  [ -3.8999999523162843, 0.7, 2.8774999998137356 ],
+  [ -1.300000047683716, 1.9650000053644179, 3.115 ]
+]
+   fixture-maker-gallery [
+  [ -3.6025047707608584, 0.7, -1.7800002764678509 ],
+  [ -3.404998806209026, 2.2, 0.8200003242195324 ]
+]
+v=0.583752  memory-cloth-stars <-> FIXTURE:fixture-trestle-small
+v=0.392426  memory-cloth-diamond <-> FIXTURE:fixture-worktable
+v=0.352417  memory-cloth-dots <-> FIXTURE:fixture-table-cloth
+v=0.033887  memory-plate-desk <-> FIXTURE:fixture-shelf-main
+v=0.033887  memory-plate-desk <-> FIXTURE:fixture-worktable
+v=0.033887  memory-plate-desk <-> FIXTURE:fixture-worktable
+v=0.030925  memory-plate-wave <-> FIXTURE:fixture-worktable
+v=0.030925  memory-plate-wave <-> FIXTURE:fixture-worktable
+v=0.030672  memory-plate-stars <-> FIXTURE:fixture-worktable
+v=0.030672  memory-plate-stars <-> FIXTURE:fixture-worktable
+v=0.029515  memory-plate-canyon <-> FIXTURE:fixture-shelf-main
+v=0.029515  memory-plate-canyon <-> FIXTURE:fixture-worktable
+v=0.029515  memory-plate-canyon <-> FIXTURE:fixture-worktable
+v=0.028927  memory-plate-neon <-> FIXTURE:fixture-worktable
+v=0.028927  memory-plate-neon <-> FIXTURE:fixture-worktable
+v=0.027515  memory-plate-sun <-> FIXTURE:fixture-shelf-main
+v=0.027515  memory-plate-sun <-> FIXTURE:fixture-worktable
+v=0.027515  memory-plate-sun <-> FIXTURE:fixture-worktable
+v=0.022797  memory-plate-wall <-> FIXTURE:fixture-worktable
+v=0.022797  memory-plate-wall <-> FIXTURE:fixture-worktable
+v=0.015812  memory-pc-canyon <-> FIXTURE:fixture-crate-low
+v=0.014903  memory-plate-desk <-> memory-cloth-diamond
+v=0.014599  memory-plate-palm <-> FIXTURE:fixture-shelf-main
+v=0.014599  memory-plate-palm <-> FIXTURE:fixture-worktable
+v=0.014599  memory-plate-palm <-> FIXTURE:fixture-worktable
+v=0.012700  memory-plate-neon <-> memory-cloth-diamond
+v=0.012380  memory-pc-sea <-> FIXTURE:fixture-crate-low
+v=0.011996  memory-plate-canyon <-> memory-cloth-diamond
+v=0.011167  memory-pc-palm <-> FIXTURE:fixture-crate-low
+v=0.010009  memory-plate-wall <-> memory-cloth-diamond
+v=0.008958  memory-dish-wave <-> FIXTURE:fixture-shelf-main
+v=0.008958  memory-dish-wave <-> FIXTURE:fixture-table-cloth
+v=0.007866  memory-dish-neon <-> FIXTURE:fixture-shelf-main
+v=0.007866  memory-dish-neon <-> FIXTURE:fixture-shelf-main
+v=0.007866  memory-dish-neon <-> FIXTURE:fixture-worktable
+v=0.007774  memory-dish-palm <-> FIXTURE:fixture-shelf-main
+v=0.007774  memory-dish-palm <-> FIXTURE:fixture-shelf-main
+v=0.007774  memory-dish-palm <-> FIXTURE:fixture-worktable
+v=0.007268  memory-dish-trail <-> FIXTURE:fixture-shelf-main
+v=0.007268  memory-dish-trail <-> FIXTURE:fixture-shelf-main
+v=0.007268  memory-dish-trail <-> FIXTURE:fixture-worktable
+v=0.007201  memory-dish-sea <-> FIXTURE:fixture-shelf-main
+v=0.007201  memory-dish-sea <-> FIXTURE:fixture-shelf-main
+v=0.007201  memory-dish-sea <-> FIXTURE:fixture-worktable
+v=0.006101  memory-dish-desk <-> FIXTURE:fixture-shelf-main
+v=0.005849  memory-dish-stars <-> FIXTURE:fixture-shelf-main
+v=0.005345  memory-plate-wave <-> memory-cloth-diamond
+v=0.004741  memory-cs-neon <-> FIXTURE:fixture-shelf-main
+v=0.004741  memory-cs-neon <-> FIXTURE:fixture-worktable
+v=0.004741  memory-cs-neon <-> FIXTURE:fixture-plinth-ent
+v=0.004699  memory-cs-palm <-> FIXTURE:fixture-shelf-main
+v=0.004699  memory-cs-palm <-> FIXTURE:fixture-worktable
+v=0.004621  memory-cs-wave <-> FIXTURE:fixture-shelf-main
+v=0.004621  memory-cs-wave <-> FIXTURE:fixture-ledge
+v=0.004420  memory-jn-sea <-> FIXTURE:fixture-table-cloth
+v=0.004293  memory-cs-canyon <-> FIXTURE:fixture-shelf-main
+v=0.004293  memory-cs-canyon <-> FIXTURE:fixture-worktable
+v=0.004293  memory-cs-canyon <-> FIXTURE:fixture-plinth-ent
+v=0.004245  memory-cs-sea <-> FIXTURE:fixture-shelf-main
+v=0.004245  memory-cs-sea <-> FIXTURE:fixture-worktable
+v=0.003734  memory-pc-n9 <-> FIXTURE:fixture-memory-board
+v=0.003691  memory-cs-desk <-> FIXTURE:fixture-shelf-main
+v=0.003691  memory-cs-desk <-> FIXTURE:fixture-table-cloth
+v=0.003691  memory-cs-desk <-> FIXTURE:fixture-ledge
+v=0.003670  memory-pc-n1 <-> FIXTURE:fixture-memory-board
+v=0.003655  memory-jn-neon <-> FIXTURE:fixture-crate-low
+v=0.003654  memory-dish-wall <-> FIXTURE:fixture-shelf-main
+v=0.003654  memory-dish-wall <-> FIXTURE:fixture-table-cloth
+v=0.003631  memory-cs-wood <-> FIXTURE:fixture-shelf-main
+v=0.003631  memory-cs-wood <-> FIXTURE:fixture-ledge
+v=0.003544  memory-pc-n7 <-> FIXTURE:fixture-memory-board
+v=0.003348  memory-kc-moon <-> FIXTURE:fixture-plinth-ent
+v=0.003255  memory-pc-neon <-> FIXTURE:fixture-card-rack
+v=0.003255  memory-pc-desk <-> FIXTURE:fixture-card-rack
+v=0.003255  memory-pc-wall <-> FIXTURE:fixture-card-rack
+v=0.003255  memory-pc-desk <-> FIXTURE:fixture-card-rack
+v=0.003255  memory-pc-sea <-> FIXTURE:fixture-card-rack
+v=0.003255  memory-pc-palm <-> FIXTURE:fixture-card-rack
+v=0.003255  memory-pc-canyon <-> FIXTURE:fixture-card-rack
+v=0.003255  memory-pc-wave <-> FIXTURE:fixture-card-rack
+total pairs: 297

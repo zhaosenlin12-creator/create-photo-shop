@@ -1,98 +1,154 @@
-# Photo Souvenir Shop
+# Photo Souvenir Shop · 照片纪念品店
 
 **English** · [简体中文](README.zh-CN.md)
 
-Turn personal photographs into a personally designed, explorable **3D souvenir shop**. This Codex skill guides photo review, art direction, source-derived gift design and local website generation using a bundled vanilla JavaScript + Three.js runtime.
+> Turn your personal photographs into an explorable **3D souvenir shop** — walk around, look up at hanging ornaments, pick up gifts, rotate them in your hand, and compare them with the photos that inspired them.
+>
+> 把个人照片变成一间可以漫步的 3D 纪念品店：推门进去、抬头看挂饰、拿起商品把玩、和启发它的照片对照。
 
-Walk through the shop, look up at hanging paper ornaments, pick up gifts, rotate them, and compare them with the photographs that inspired them. An optional book at an authored display location opens a supplied 2D flipbook.
+---
 
-## What is included
+## 🎬 Online preview · 在线预览
 
-- Full photo review with large, paginated contact sheets and stable source IDs.
-- Eleven required gift types: keychains, fridge magnets, small badges, postcards, plates, small dishes, wall art, tablecloths, small notebooks, pens and coasters. Shapes and graphics come from the photographs.
-- Up to 100 artwork assets; curate only the prints appropriate for the chosen displays.
-- Many designs and deliberate stock runs per category; for example, 12–18 keychain designs displayed as 24–36 pieces.
-- Agent-authored room proportions, materials, fixtures, placements, lighting and viewpoints, informed by five bundled real-store reference photos. Saved seeds support reproducible design choices and bounded display variation.
-- Optional sculptural keepsakes, custom silhouettes and an existing photobook with its original cover.
-- A quality pilot before mass production, photo-referenced image generation, reusable enamel/metal/relief fabrication components, and rendered front/oblique/back/clay contact sheets.
-- Local preparation/build scripts and automated scene checks. The default workflow targets at least 70% photo-derived merchandise.
+**Sunset Studio · AI 四小只纪念品店**（示例店，由真实账号素材设计而成）：
 
-The included demo uses **24 fictional geometric SVG artworks**. It contains no personal photographs or generated photo-based raster artwork. The skill is self-contained; a flipbook skill is not required.
+### 🌐 https://zhaosenlin12-creator.github.io/create-photo-shop/
 
-## Install
+> 在线预览就是「落日工作室」本地效果：墨绿墙、暖木家具、柑橘暖光，照片架、小创作者画廊（双层十幅人物插画）、陶器长台、明信片墙、布艺展示台与 8 款浮雕冰箱贴。WASD 移动、拖动环顾、点击拿起把玩、滚轮缩放。
 
-Using Codex's skill installer:
+| 入口全景 | 小创作者画廊 | 回忆照片架 |
+| --- | --- | --- |
+| ![overview](screenshots/demo.png) | ![gallery](screenshots/demo-loaded.png) | 更多截图见仓库 `screenshots/` |
+
+---
+
+## What this project is · 这是什么
+
+一个**自包含的 Skill + 完整示例工程**，让任何人（或任何支持 Codex Skills 的 AI 助手）用一组照片生成一间有真实空间感、丰富商品与可交互体验的 3D 纪念品店网站：
+
+- 无需后端、无需 API Key、无需 JavaScript 构建步骤——产物是纯静态网页（vanilla JavaScript + Three.js）。
+- 一个可漫步的房间：入口视觉重心、明信片墙、照片架、画廊、陶器长台、布艺展示台、挂帘与吊灯，均由 AI 依据五张真实礼品店参考照片重新构图。
+- 十一类必备商品：钥匙扣、冰箱贴、徽章、明信片、盘子、小碟、墙画、桌布、小笔记本、笔、杯垫——形状与画面全部来自你的照片。
+- 质量工作流：照片审阅 → 风格化插画生成 → 商品建模 → 构建 → 几何校验 → 渲染审查 → 审计。
+
+### Demo shop · 示例店「Sunset Studio 日落工作室」
+
+`sunset-studio/` 是本仓库自带的完整示例：用「AI 四小只」账号的 15 张照片素材，设计出：
+
+- **33 幅插画作品**（水粉 / 纸拼贴 / 木刻 / 织纹四种媒介，全部由源照片改编）
+- **101 款商品**（47 款自定义 3D 建模，含 8 款浮雕磁贴、8 款陶瓷盘、8 款小碟……）
+- **236 个陈列对象**，照片衍生率 100%
+- 6 个导览机位：入口全景 / 陶器长台 / 小创作者画廊 / 明信片墙 / 悬挂层 / 主陈列墙
+
+素材见 `img/`（示例用途，来源为账号公开内容改编插画，非真人照片）。
+
+---
+
+## Quick start for other users · 其他用户如何上手
+
+### 1. 拉取项目
 
 ```bash
-python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo HaichaoLihc/create-photo-souvenir-shop \
-  --path skills/create-photo-souvenir-shop \
-  --ref main
+git clone https://github.com/zhaosenlin12-creator/create-photo-shop.git
+cd create-photo-shop
 ```
 
-Alternatively, copy [`skills/create-photo-souvenir-shop/`](skills/create-photo-souvenir-shop/) into your local skill directory. Reload your agent's skills if required by your host application.
+### 2. 用你自己的照片做一间纪念品店
 
-## Use
+把照片放进任意目录（例如 `my-photos/`），然后让支持 Codex Skills 的 AI 助手使用本项目内置的 Skill：
 
 ```text
-Use $create-photo-souvenir-shop with the photos in /path/to/photos.
+Use $create-photo-souvenir-shop with the photos in my-photos.
 Review every photo and create a personal 3D souvenir shop with stylized
 postcards, keychains, magnets, badges, plates, small dishes, wall art,
 a tablecloth, a notebook, a pen and coasters.
 ```
 
-The agent reviews the photos, designs all eleven required gift types and authors a fitting shop interior. Plate, dish, tablecloth and pen geometry is agent-authored through the custom hook. Image generation uses the tools available to the agent; it is not performed by the Python builder. A finished-artwork collection can also be used. The website itself needs no API key, backend, CDN or JavaScript build step.
+Skill 位于 [`skills/create-photo-souvenir-shop/`](skills/create-photo-souvenir-shop/)，包含：
 
-See the [Skill](skills/create-photo-souvenir-shop/SKILL.md),
-[quality workflow](skills/create-photo-souvenir-shop/references/quality-workflow.md),
-[shop design](skills/create-photo-souvenir-shop/references/shop-design.md),
-[art direction](skills/create-photo-souvenir-shop/references/art-direction.md),
-[collection schema](skills/create-photo-souvenir-shop/references/collection-schema.md),
-and [runtime guide](skills/create-photo-souvenir-shop/references/runtime.md).
+| 文件 | 作用 |
+| --- | --- |
+| `SKILL.md` | 工作流总纲（照片审阅 → 设计 → 构建 → 审查） |
+| `references/shop-design.md` | 空间 / 陈列 / 光环境设计准则（含 5 张真实礼品店参考图） |
+| `references/art-direction.md` | 商品造型与最终多样性检查 |
+| `references/collection-schema.md` | 清单 schema（photos / artworks / gifts / scene） |
+| `references/runtime.md` | 自定义几何钩子与运行时说明 |
+| `references/quality-workflow.md` | 质量工作流：先做小样、再铺全量 |
+| `scripts/*` | prepare / build / validate / render / audit 脚本 |
 
-## Preview the fictional demo
-
-From a local checkout:
-
-```bash
-python3 -m http.server 4173 --bind 127.0.0.1 \
-  --directory skills/create-photo-souvenir-shop/assets/html
-```
-
-Open `http://127.0.0.1:4173/`. Use WASD to move, drag to look around, click an object to inspect it, and press Esc to put it back. Serve over HTTP rather than opening the HTML as a local file.
-
-## Development and validation
-
-Requirements: Python 3.10+, Pillow, and Node.js 22+ for validation. HEIC input additionally needs `pillow-heif` or the built-in macOS `sips` tool.
+### 3. 手动构建（也完全可以不用 AI，自己编辑清单）
 
 ```bash
-python3 -m pip install -r requirements.txt
-python3 -m unittest discover -s tests -p 'test_*.py'
-node --test tests/souvenir-reader.test.mjs
-node skills/create-photo-souvenir-shop/scripts/validate_shop.mjs
+# 安装渲染审查依赖（可选，用于出审查图）
+cd tooling && npm install && cd ..
+
+# 用示例清单构建一间店
+python skills/create-photo-souvenir-shop/scripts/build_shop.py \
+  sunset-studio/source/collection.json my-shop
+
+# CPU 几何校验（无需浏览器）
+node skills/create-photo-souvenir-shop/scripts/validate_shop.mjs my-shop
+
+# 渲染审查图（需要 Playwright + Chromium）
+SHOP_PLAYWRIGHT_MODULE=/abs/path/to/playwright/index.mjs \
+SHOP_CHROME=/abs/path/to/chrome \
+node skills/create-photo-souvenir-shop/scripts/render_review.mjs my-shop my-review
+
+# 清单审计
+python skills/create-photo-souvenir-shop/scripts/audit_collection.py my-shop \
+  --review my-review --final
+
+# 本地预览
+python -m http.server 4173 --bind 127.0.0.1 --directory my-shop
+# 浏览器打开 http://127.0.0.1:4173/
 ```
 
-Tests exercise photo pagination and orientation, atlas crops, small and large collections, optional sculptures/books, invalid manifests, reader focus, local assets, finite geometry, picking and instancing. These CPU-side checks do not replace visual review of generated artwork or browser interaction testing. The default demo is deliberately a functional fixture, not an aesthetic benchmark.
+### 4. 编辑示例清单，改成你自己的店
 
-For a generated shop, render the actual scene and all distinct models with Playwright/Chromium, then audit the evidence:
-
-```bash
-node skills/create-photo-souvenir-shop/scripts/render_review.mjs /path/to/shop /path/to/new-review
-python3 skills/create-photo-souvenir-shop/scripts/audit_collection.py /path/to/shop --review /path/to/new-review --final
-```
-
-See the quality workflow for optional paths to existing browser dependencies. Reviews are tied to the built files and become stale after edits. The audit distinguishes designs from stock and flags exact repeated solid geometry; passing never certifies aesthetic quality. Open the images, revise weak work, and retest. The stylized workflow needs an available image-generation tool; the website itself does not.
+可编辑源都在 [`sunset-studio/source/`](sunset-studio/source/)：
 
 ```text
-skills/create-photo-souvenir-shop/
-  SKILL.md           Agent workflow
-  agents/            Skill metadata
-  scripts/           Photo preparation, atlas cropping, site building, validation
-  references/        Art direction, collection schema, runtime guide
-  assets/html/       Self-contained 3D shop and fictional demo
-tests/              Generator and reader regression tests
+sunset-studio/source/
+├── collection.json     # 照片 / 插画 / 商品 / 房间 / 视图 的总清单
+├── custom-shop.js      # 自定义商品建模（盘 / 碟 / 桌布 / 笔 / 杯垫 / 磁贴……）
+├── photos/             # 虚构旅行照片（p1-p6）
+└── art/                # 33 幅插画（a/m/n/o 系列）
 ```
+
+改 `collection.json` 里的 `photos`（换成你的照片路径）、`artworks`（换成你的插画）、`gifts` 与 `scene`（房间 / 陈列 / 机位），然后重新 build 即可。
+
+---
+
+## Repository layout · 目录结构
+
+```text
+.
+├── skills/create-photo-souvenir-shop/   # Skill 本体（SKILL.md + references + scripts）
+├── sunset-studio/                       # 完整示例店（可编辑源 + 构建产物）
+│   ├── source/                          # collection.json / custom-shop.js / 图片资产
+│   └── build/                           # 已构建的静态站点（在线预览即此目录）
+├── img/                                 # 示例素材（AI 四小只 15 张）
+├── screenshots/                         # README 用截图
+└── tooling/                             # 渲染审查依赖（npm install 后使用）
+```
+
+> `sunset-studio/review/`（渲染审查证据）与 `tooling/node_modules/` 不入库；按上文命令可随时重新生成。
+
+---
+
+## Skill install · Skill 安装方式
+
+```bash
+python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
+  --repo zhaosenlin12-creator/create-photo-shop \
+  --path skills/create-photo-souvenir-shop \
+  --ref main
+```
+
+或直接把 [`skills/create-photo-souvenir-shop/`](skills/create-photo-souvenir-shop/) 复制进你的 skill 目录。
+
+---
 
 ## License
 
-Code and the original geometric SVG demo artworks use the [MIT License](LICENSE). Vendored Three.js retains its [MIT notice](skills/create-photo-souvenir-shop/assets/html/assets/THREE-LICENSE.txt). Photographs and artwork supplied by users retain their respective ownership and are not covered by this repository's code license. Generated personal shops remain local unless publication is authorized.
+MIT（Skill 与脚本）；示例店的插画与素材仅作演示用途，来源于「AI 四小只」账号公开内容改编，不随项目另行授权。

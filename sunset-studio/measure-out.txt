@@ -1,0 +1,117 @@
+﻿memory-plate-sun at [ 0.6, 2.44, 0.4 ] parent fixture-shelf-main bounds [
+  [ 0.0887974202632904, 2.3230480054855347, -3.5112025797367097 ],
+  [ 0.4112025797367096, 2.5877519945144654, -3.1887974202632905 ]
+] h 0.2647
+   mesh  localY -0.0008 .. 0.0168
+   mesh  localY -0.0008 .. 0.0108
+   mesh  localY -0.1324 .. 0.1324
+   mesh  localY -0.0045 .. 0.0045
+memory-plate-desk at [ 1.8, 2.44, 0.4 ] parent fixture-shelf-main bounds [
+  [ 1.267970708012581, 2.327560002589226, -3.532029291987419 ],
+  [ 1.6320292919874193, 2.5832399974107743, -3.167970708012581 ]
+] h 0.2557
+   mesh  localY -0.0008 .. 0.0168
+   mesh  localY -0.0008 .. 0.0108
+   mesh  localY -0.1278 .. 0.1278
+   mesh  localY -0.0045 .. 0.0045
+memory-plate-sun at [ -1.35, 0.85, 0.22 ] parent fixture-worktable bounds [
+  [ -1.5112025797367097, 0.7330480054855346, -0.09120257973670959 ],
+  [ -1.1887974202632905, 0.9977519945144653, 0.2312025797367096 ]
+] h 0.2647
+   mesh  localY -0.0008 .. 0.0168
+   mesh  localY -0.0008 .. 0.0108
+   mesh  localY -0.1324 .. 0.1324
+   mesh  localY -0.0045 .. 0.0045
+memory-plate-desk at [ 0.09, 0.85, 0.22 ] parent fixture-worktable bounds [
+  [ -0.09202929198741913, 0.7375600025892257, -0.11202929198741912 ],
+  [ 0.2720292919874191, 0.9932399974107742, 0.25202929198741914 ]
+] h 0.2557
+   mesh  localY -0.0008 .. 0.0168
+   mesh  localY -0.0008 .. 0.0108
+   mesh  localY -0.1278 .. 0.1278
+   mesh  localY -0.0045 .. 0.0045
+memory-plate-sun at [ -1.17, 0.85, -0.22 ] parent fixture-worktable bounds [
+  [ -1.3312025797367095, 0.7330480054855346, -0.5312025797367096 ],
+  [ -1.0087974202632903, 0.9977519945144653, -0.2087974202632904 ]
+] h 0.2647
+   mesh  localY -0.0008 .. 0.0168
+   mesh  localY -0.0008 .. 0.0108
+   mesh  localY -0.1324 .. 0.1324
+   mesh  localY -0.0045 .. 0.0045
+memory-plate-desk at [ 0.27, 0.85, -0.22 ] parent fixture-worktable bounds [
+  [ 0.08797070801258089, 0.7375600025892257, -0.5520292919874191 ],
+  [ 0.45202929198741915, 0.9932399974107742, -0.18797070801258087 ]
+] h 0.2557
+   mesh  localY -0.0008 .. 0.0168
+   mesh  localY -0.0008 .. 0.0108
+   mesh  localY -0.1278 .. 0.1278
+   mesh  localY -0.0045 .. 0.0045
+memory-cloth-diamond at [ 0, 0.85, -0.1 ] parent fixture-worktable bounds [
+  [ -0.7728028004018979, 0.602000018954277, -0.7618907446876023 ],
+  [ 0.7728028004018979, 0.85, 0.2618907446876023 ]
+] h 0.2480
+   mesh  localY -0.2480 .. -0.0000
+memory-cloth-dots at [ 0, 0.75, 0 ] parent fixture-table-cloth bounds [
+  [ 1.5879943469185371, 0.4400000274181366, 1.1706874153211109 ],
+  [ 2.912005653081463, 0.75, 2.0293125846788893 ]
+] h 0.3100
+   mesh  localY -0.3100 .. 0.0000
+memory-cloth-stars at [ 0, 0.75, 0 ] parent fixture-trestle-small bounds [
+  [ -2.8535643457644033, 0.37800002098083496, 1.378685727305494 ],
+  [ -1.7464356542355965, 1.0879999995231628, 2.121314272694506 ]
+] h 0.7100
+   mesh  localY -0.3720 .. 0.0000
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380
+   mesh  localY -0.3380 .. -0.3340
+   mesh  localY 0.3340 .. 0.3380

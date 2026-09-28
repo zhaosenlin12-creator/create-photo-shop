@@ -1,0 +1,5833 @@
+{
+  "title": "日落工作室 · AI 四小只纪念品店",
+  "subtitle": "SUNSET STUDIO · AI 四小只的纪念品店",
+  "palette": [
+    "#2b5d66",
+    "#c87a45",
+    "#e9e2d2",
+    "#b99b72",
+    "#3a3a38",
+    "#d9a44f",
+    "#ffb45e"
+  ],
+  "customModule": "custom-shop.js",
+  "photos": [
+    {
+      "id": "p1",
+      "src": "photos/p1.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "p2",
+      "src": "photos/p2.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "p3",
+      "src": "photos/p3.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "p4",
+      "src": "photos/p4.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "p5",
+      "src": "photos/p5.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "p6",
+      "src": "photos/p6.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q1",
+      "src": "../../img/头像.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q2",
+      "src": "../../img/9af3ac4aa97a8fb494456a91b24ac103.png",
+      "reviewed": true
+    },
+    {
+      "id": "q3",
+      "src": "../../img/f1e3744984117681219e942c45e09649.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q4",
+      "src": "../../img/405e26df624fc88af4eb663295d93bff.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q5",
+      "src": "../../img/813efe88230a6878658ed6f7a69e6b56.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q6",
+      "src": "../../img/6fd747eec3a487161299e5e20482775b.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q7",
+      "src": "../../img/ecac83c92032654887e31514aadde1c8.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q8",
+      "src": "../../img/4343968c01a6c6a45b2ef353e680be2c.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q9",
+      "src": "../../img/95ce0d580aeb7d54fb4983b8caee1f88.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q10",
+      "src": "../../img/7bc98aec4449a0c945a17c88e1ade58a.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q11",
+      "src": "../../img/fae3768ad155ba3200f8bc1414994b09.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q12",
+      "src": "../../img/34f674ef37a7ce1375f9029cfdf0f83c.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q13",
+      "src": "../../img/3c737521e1475b7cbcc899a6afde5276.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q14",
+      "src": "../../img/bcd59bd6bfdb32b93aa5ebb61a879cab.jpg",
+      "reviewed": true
+    },
+    {
+      "id": "q15",
+      "src": "../../img/c0c91e337dc92e78156ac44c66de74d2.jpg",
+      "reviewed": true
+    }
+  ],
+  "artworks": [
+    {
+      "id": "a1",
+      "photo": "p1",
+      "src": "art/a1.jpg",
+      "title": "水粉·海岸日落",
+      "scene": "虚构旅行素材：洛杉矶海岸日落的水粉诠释，大块色层与负空间",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a2",
+      "photo": "p2",
+      "src": "art/a2.jpg",
+      "title": "水粉·棕榈大道",
+      "scene": "虚构旅行素材：棕榈树大道剪影的水粉色块诠释",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a3",
+      "photo": "p3",
+      "src": "art/a3.jpg",
+      "title": "水粉·峡谷山径",
+      "scene": "虚构旅行素材：橙色岩壁与之字小径的水粉诠释",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a4",
+      "photo": "p4",
+      "src": "art/a4.jpg",
+      "title": "拼贴·霓虹街角",
+      "scene": "虚构旅行素材：夜晚小店与霓虹的纸拼贴诠释",
+      "style": "纸拼贴",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a5",
+      "photo": "p5",
+      "src": "art/a5.jpg",
+      "title": "拼贴·创作工作台",
+      "scene": "虚构旅行素材：工作台纸笔台灯的纸拼贴诠释",
+      "style": "纸拼贴",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a6",
+      "photo": "p6",
+      "src": "art/a6.jpg",
+      "title": "拼贴·几何墙面",
+      "scene": "虚构旅行素材：沙漠现代建筑墙面的纸拼贴诠释",
+      "style": "纸拼贴",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a7",
+      "photo": "p1",
+      "src": "art/a7.jpg",
+      "title": "木刻·浪",
+      "scene": "虚构旅行素材：海岸浪花的木刻版画诠释",
+      "style": "木刻版画",
+      "treatment": "illustration",
+      "medium": "woodcut",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a8",
+      "photo": "p2",
+      "src": "art/a8.jpg",
+      "title": "木刻·棕榈",
+      "scene": "虚构旅行素材：单棵棕榈的木刻线条诠释",
+      "style": "木刻版画",
+      "treatment": "illustration",
+      "medium": "woodcut",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a9",
+      "photo": "p3",
+      "src": "art/a9.jpg",
+      "title": "木刻·群山",
+      "scene": "虚构旅行素材：层叠山形的几何木刻诠释",
+      "style": "木刻版画",
+      "treatment": "illustration",
+      "medium": "woodcut",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a10",
+      "photo": "p1",
+      "src": "art/a10.jpg",
+      "title": "织纹·菱形",
+      "scene": "虚构旅行素材：由日落色系衍生的菱形织物图案",
+      "style": "织物图案",
+      "treatment": "pattern",
+      "medium": "textile-print",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a11",
+      "photo": "p6",
+      "src": "art/a11.jpg",
+      "title": "织纹·圆点",
+      "scene": "虚构旅行素材：由几何墙面色系衍生的圆点波纹织物图案",
+      "style": "织物图案",
+      "treatment": "pattern",
+      "medium": "textile-print",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "a12",
+      "photo": "p4",
+      "src": "art/a12.jpg",
+      "title": "织纹·星形",
+      "scene": "虚构旅行素材：由霓虹夜配色衍生的星形几何织物图案",
+      "style": "织物图案",
+      "treatment": "pattern",
+      "medium": "textile-print",
+      "generation": "AI 生成的虚构演示素材，非用户照片"
+    },
+    {
+      "id": "m0",
+      "photo": "q1",
+      "src": "art/m0.jpg",
+      "title": "水粉·四小只的机房黄昏",
+      "scene": "四位少年与机器人伙伴围坐桌前，窗外汇橘色落日的水粉插画",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "m1",
+      "photo": "q1",
+      "src": "art/m1.jpg",
+      "title": "水粉·橘子色的提问",
+      "scene": "白衬衫少年在落日圆窗前向笔记本提问的水粉插画",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "m2",
+      "photo": "q1",
+      "src": "art/m2.jpg",
+      "title": "拼贴·彩虹的代码",
+      "scene": "浅蓝短袖少年与漂浮的代码窗口、齿轮星星组成的纸拼贴",
+      "style": "纸拼贴",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "m3",
+      "photo": "q1",
+      "src": "art/m3.jpg",
+      "title": "织纹·挂绳上的星光",
+      "scene": "挂彩虹挂绳的少年置身柑橘色波浪与星星织纹之中",
+      "style": "织物图案",
+      "treatment": "pattern",
+      "medium": "textile-print",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "m4",
+      "photo": "q1",
+      "src": "art/m4.jpg",
+      "title": "木刻·第一行代码",
+      "scene": "少年低头写第一行代码的暖橙单色木刻版画",
+      "style": "木刻版画",
+      "treatment": "illustration",
+      "medium": "woodcut",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n1",
+      "photo": "q2",
+      "src": "art/n1.jpg",
+      "title": "水粉·领奖台的黄昏",
+      "scene": "赛事团体照改编：少年与导师围看机器人作品，落日背景",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n2",
+      "photo": "q3",
+      "src": "art/n2.jpg",
+      "title": "水粉·橘子色的妙招",
+      "scene": "伏案敲代码的手部特写：黑背心袖口、彩色代码屏幕与桌角的橙子，黄昏暖光的水粉插画",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n3",
+      "photo": "q4",
+      "src": "art/n3.jpg",
+      "title": "拼贴·上升的箭头",
+      "scene": "浅蓝上衣少年与上升箭头、图表拼贴，成长氛围",
+      "style": "纸拼贴",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n4",
+      "photo": "q5",
+      "src": "art/n4.jpg",
+      "title": "水粉·笑场的夜晚",
+      "scene": "两台笔记本与白色机器人相伴的笑闹日常",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n5",
+      "photo": "q6",
+      "src": "art/n5.jpg",
+      "title": "木刻·翻开的一页",
+      "scene": "蓝印花少年摊开书本的暖橙木刻版画",
+      "style": "木刻版画",
+      "treatment": "illustration",
+      "medium": "woodcut",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n6",
+      "photo": "q7",
+      "src": "art/n6.jpg",
+      "title": "拼贴·抓狂的问号",
+      "scene": "抓狂表情少年与乱码窗口、问号的幽默拼贴",
+      "style": "纸拼贴",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n7",
+      "photo": "q8",
+      "src": "art/n7.jpg",
+      "title": "水粉·三秒学会",
+      "scene": "浅蓝T恤少年站在黑板前讲解，粉笔箭头与 AI 涂鸦，教室阳光的水粉插画",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n8",
+      "photo": "q9",
+      "src": "art/n8.jpg",
+      "title": "织纹·避坑小册",
+      "scene": "白蓝运动服少年的织物印花风插画",
+      "style": "织物图案",
+      "treatment": "illustration",
+      "medium": "textile-print",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n9",
+      "photo": "q10",
+      "src": "art/n9.jpg",
+      "title": "木刻·多屏之夜",
+      "scene": "深夜机房窗外剪影：暖黄屏幕光、吊灯光晕与城市夜色的木刻版画",
+      "style": "木刻版画",
+      "treatment": "illustration",
+      "medium": "woodcut",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "n10",
+      "photo": "q11",
+      "src": "art/n10.jpg",
+      "title": "水粉·导师的鼓励",
+      "scene": "导师俯身与四少年围看机器人的温馨水粉插画",
+      "style": "水粉插画",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "o1",
+      "photo": "q12",
+      "src": "art/o1.jpg",
+      "title": "纸拼贴·电视机的备忘",
+      "scene": "白衬衫少年与电视机里的机械手举着备忘便签，齿轮与撕纸贴纸环绕",
+      "style": "paper-collage",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "o2",
+      "photo": "q13",
+      "src": "art/o2.jpg",
+      "title": "织纹·窗边的落日",
+      "scene": "浅蓝T恤少年在窗边翻开笔记本，窗外落日海景与棕榈剪影，织纹波浪填满背景",
+      "style": "textile-print",
+      "treatment": "illustration",
+      "medium": "textile-print",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "o3",
+      "photo": "q14",
+      "src": "art/o3.jpg",
+      "title": "木刻·巨大的代码书",
+      "scene": "红白蓝少年盘腿坐在机房地板上，摊开一本巨大的代码书，俯视构图",
+      "style": "woodcut",
+      "treatment": "illustration",
+      "medium": "woodcut",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "o4",
+      "photo": "q15",
+      "src": "art/o4.jpg",
+      "title": "水粉·街角的存钱罐",
+      "scene": "挂彩虹挂绳的少年在小卖部门口举起贴着 AI 贴纸的存钱罐，黄昏街景",
+      "style": "gouache",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "o5",
+      "photo": "q11",
+      "src": "art/o5.jpg",
+      "title": "纸拼贴·碰杯的黄昏",
+      "scene": "导师与四名少年围坐圆桌举橙汁碰杯，笔记本与切好的橘子，窗外落日",
+      "style": "paper-collage",
+      "treatment": "illustration",
+      "medium": "paper-collage",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    },
+    {
+      "id": "o6",
+      "photo": "q2",
+      "src": "art/o6.jpg",
+      "title": "水粉·领奖的舞台",
+      "scene": "四名戴眼镜少年站在 AI 竞赛展台前，2026 AI 大屏与奖杯，观众剪影",
+      "style": "gouache",
+      "treatment": "illustration",
+      "medium": "gouache",
+      "generation": "AI 生成的虚构角色演示插画，改编自用户提供的 AI四小只 账号素材，非真人照片"
+    }
+  ],
+  "gifts": [
+    {
+      "id": "kc-sun",
+      "kind": "keychain",
+      "name": "落日圆牌钥匙链",
+      "artwork": "a1",
+      "description": "落日色珐琅圆牌，黄铜环链——像四小只放学口袋里叮当响的小太阳",
+      "material": "珐琅与黄铜",
+      "color": "#c87a45",
+      "family": "keychain",
+      "construction": "圆形珐琅吊坠，金属环与四节链",
+      "designDifferences": "圆形剪影、珐琅釉面、橙色",
+      "outline": [
+        [
+          0.5,
+          0.04
+        ],
+        [
+          0.85,
+          0.13
+        ],
+        [
+          0.99,
+          0.39
+        ],
+        [
+          0.94,
+          0.66
+        ],
+        [
+          0.72,
+          0.88
+        ],
+        [
+          0.5,
+          0.96
+        ],
+        [
+          0.28,
+          0.88
+        ],
+        [
+          0.06,
+          0.66
+        ],
+        [
+          0.01,
+          0.39
+        ],
+        [
+          0.15,
+          0.13
+        ]
+      ]
+    },
+    {
+      "id": "kc-wave",
+      "kind": "keychain",
+      "name": "浪尖钥匙链",
+      "artwork": "a7",
+      "description": "青色浪尖金属浮雕，钢环链——把海边写进代码的第一行",
+      "material": "金属浮雕与钢",
+      "color": "#2b5d66",
+      "family": "keychain",
+      "construction": "三浪剪影浮雕，钢质环",
+      "designDifferences": "波浪剪影、浮雕工艺、青色",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          0.1,
+          0.32
+        ],
+        [
+          0.24,
+          0.08
+        ],
+        [
+          0.38,
+          0.42
+        ],
+        [
+          0.5,
+          0.14
+        ],
+        [
+          0.63,
+          0.48
+        ],
+        [
+          0.76,
+          0.2
+        ],
+        [
+          0.9,
+          0.5
+        ],
+        [
+          1,
+          0.28
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0.85,
+          0
+        ],
+        [
+          0.15,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "kc-mountain",
+      "kind": "keychain",
+      "name": "群山钥匙链",
+      "artwork": "a9",
+      "description": "木色三重峰剪影吊坠，黄铜链——像他们一起翻过的一座座山",
+      "material": "实木与黄铜",
+      "color": "#b99b72",
+      "family": "keychain",
+      "construction": "三重峰剪影，木色质感",
+      "designDifferences": "山峰剪影、木质质感、暖棕",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          0.12,
+          0.34
+        ],
+        [
+          0.26,
+          0.1
+        ],
+        [
+          0.4,
+          0.55
+        ],
+        [
+          0.55,
+          0.18
+        ],
+        [
+          0.7,
+          0.6
+        ],
+        [
+          0.84,
+          0.22
+        ],
+        [
+          1,
+          0.42
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "kc-star",
+      "kind": "keychain",
+      "name": "星形钥匙链",
+      "artwork": "a12",
+      "description": "金色五角星珐琅吊坠——调试成功那一晚的星星",
+      "material": "珐琅与黄铜",
+      "color": "#d9a44f",
+      "family": "keychain",
+      "construction": "五角星剪影珐琅，黄铜环",
+      "designDifferences": "星形剪影、珐琅釉面、金色",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.61,
+          0.32
+        ],
+        [
+          0.92,
+          0.34
+        ],
+        [
+          0.68,
+          0.54
+        ],
+        [
+          0.79,
+          0.85
+        ],
+        [
+          0.5,
+          0.66
+        ],
+        [
+          0.21,
+          0.85
+        ],
+        [
+          0.32,
+          0.54
+        ],
+        [
+          0.08,
+          0.34
+        ],
+        [
+          0.39,
+          0.32
+        ]
+      ]
+    },
+    {
+      "id": "kc-diamond",
+      "kind": "keychain",
+      "name": "菱形钥匙链",
+      "artwork": "a10",
+      "description": "青绿菱形珐琅吊坠，双面釉——简洁得像个好函数",
+      "material": "珐琅与钢",
+      "color": "#2b5d66",
+      "family": "keychain",
+      "construction": "菱形剪影珐琅，双面釉",
+      "designDifferences": "菱形剪影、平面珐琅、青绿",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.98,
+          0.5
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.02,
+          0.5
+        ]
+      ]
+    },
+    {
+      "id": "kc-arch",
+      "kind": "keychain",
+      "name": "拱门钥匙链",
+      "artwork": "a4",
+      "description": "橙色拱门珐琅吊坠，像霓虹窗框——机房窗外的那盏灯",
+      "material": "珐琅与黄铜",
+      "color": "#c87a45",
+      "family": "keychain",
+      "construction": "拱门剪影珐琅，黄铜环",
+      "designDifferences": "拱门剪影、釉面、橙色",
+      "outline": [
+        [
+          0.02,
+          0
+        ],
+        [
+          0.02,
+          0.55
+        ],
+        [
+          0.08,
+          0.74
+        ],
+        [
+          0.2,
+          0.87
+        ],
+        [
+          0.5,
+          0.92
+        ],
+        [
+          0.8,
+          0.87
+        ],
+        [
+          0.92,
+          0.74
+        ],
+        [
+          0.98,
+          0.55
+        ],
+        [
+          0.98,
+          0
+        ],
+        [
+          0.8,
+          0
+        ],
+        [
+          0.2,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "kc-moon",
+      "kind": "keychain",
+      "name": "新月钥匙链",
+      "artwork": "a2",
+      "description": "金色月牙珐琅吊坠——熬夜敲键盘时的月亮",
+      "material": "珐琅与黄铜",
+      "color": "#d9a44f",
+      "family": "keychain",
+      "construction": "月牙剪影珐琅，弧形缘",
+      "designDifferences": "月牙剪影、珐琅、金色",
+      "outline": [
+        [
+          0.04,
+          0.05
+        ],
+        [
+          0.04,
+          0.95
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.8,
+          0.86
+        ],
+        [
+          0.96,
+          0.6
+        ],
+        [
+          0.98,
+          0.3
+        ],
+        [
+          0.85,
+          0.08
+        ],
+        [
+          0.5,
+          0.02
+        ]
+      ]
+    },
+    {
+      "id": "kc-leaf",
+      "kind": "keychain",
+      "name": "叶片钥匙链",
+      "artwork": "a5",
+      "description": "暖木叶片剪影，叶脉浮雕——夹在键盘边的书签",
+      "material": "实木与黄铜",
+      "color": "#b99b72",
+      "family": "keychain",
+      "construction": "叶片剪影木质，边缘圆润",
+      "designDifferences": "叶片剪影、木质、暖棕",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.34,
+          0.12
+        ],
+        [
+          0.2,
+          0.3
+        ],
+        [
+          0.08,
+          0.52
+        ],
+        [
+          0.14,
+          0.78
+        ],
+        [
+          0.34,
+          0.94
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.66,
+          0.94
+        ],
+        [
+          0.86,
+          0.78
+        ],
+        [
+          0.92,
+          0.52
+        ],
+        [
+          0.8,
+          0.3
+        ],
+        [
+          0.66,
+          0.12
+        ]
+      ]
+    },
+    {
+      "id": "kc-cactus",
+      "kind": "keychain",
+      "name": "仙人掌钥匙链",
+      "artwork": "a3",
+      "description": "青绿双柱仙人掌吊坠——屏幕前最坚强的那个",
+      "material": "珐琅与钢",
+      "color": "#2b5d66",
+      "family": "keychain",
+      "construction": "仙人掌剪影珐琅，双层柱体",
+      "designDifferences": "仙人掌剪影、分层构造、青绿",
+      "outline": [
+        [
+          0.2,
+          0
+        ],
+        [
+          0.2,
+          0.3
+        ],
+        [
+          0.4,
+          0.3
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          0.6,
+          0
+        ],
+        [
+          0.6,
+          0.55
+        ],
+        [
+          0.52,
+          0.55
+        ],
+        [
+          0.52,
+          0.72
+        ],
+        [
+          0.44,
+          0.72
+        ],
+        [
+          0.44,
+          0.85
+        ],
+        [
+          0.6,
+          0.85
+        ],
+        [
+          0.6,
+          1
+        ],
+        [
+          0.2,
+          1
+        ],
+        [
+          0.2,
+          0.85
+        ],
+        [
+          0.36,
+          0.85
+        ],
+        [
+          0.36,
+          0.72
+        ],
+        [
+          0.28,
+          0.72
+        ],
+        [
+          0.28,
+          0.55
+        ],
+        [
+          0.2,
+          0.55
+        ]
+      ]
+    },
+    {
+      "id": "kc-disc",
+      "kind": "keychain",
+      "name": "八角盘钥匙链",
+      "artwork": "a6",
+      "description": "八角双层吊坠，内嵌拼贴图案——像一枚小徽章",
+      "material": "珐琅与黄铜",
+      "color": "#2b5d66",
+      "family": "keychain",
+      "construction": "八角剪影双层构造，内嵌图案",
+      "designDifferences": "八角剪影、双层构造、青绿",
+      "outline": [
+        [
+          0.5,
+          0.05
+        ],
+        [
+          0.82,
+          0.18
+        ],
+        [
+          0.96,
+          0.5
+        ],
+        [
+          0.82,
+          0.82
+        ],
+        [
+          0.5,
+          0.95
+        ],
+        [
+          0.18,
+          0.82
+        ],
+        [
+          0.04,
+          0.5
+        ],
+        [
+          0.18,
+          0.18
+        ]
+      ]
+    },
+    {
+      "id": "kc-neon",
+      "kind": "keychain",
+      "name": "霓虹框钥匙链",
+      "artwork": "a4",
+      "description": "深色方框吊坠，迷你霓虹灯牌——深夜小店的招牌",
+      "material": "珐琅与黄铜",
+      "color": "#3a3a38",
+      "family": "keychain",
+      "construction": "方形框剪影珐琅，深色",
+      "designDifferences": "方形剪影、深色釉、平面",
+      "outline": [
+        [
+          0.05,
+          0.05
+        ],
+        [
+          0.95,
+          0.05
+        ],
+        [
+          0.95,
+          0.95
+        ],
+        [
+          0.05,
+          0.95
+        ]
+      ]
+    },
+    {
+      "id": "kc-zig",
+      "kind": "keychain",
+      "name": "闪电钥匙链",
+      "artwork": "a7",
+      "description": "橙色闪电珐琅吊坠——灵感来电的一瞬间",
+      "material": "珐琅与钢",
+      "color": "#c87a45",
+      "family": "keychain",
+      "construction": "闪电剪影珐琅，锐角缘",
+      "designDifferences": "闪电剪影、锐角、橙色",
+      "outline": [
+        [
+          0.42,
+          0
+        ],
+        [
+          0.18,
+          0.4
+        ],
+        [
+          0.48,
+          0.36
+        ],
+        [
+          0.22,
+          0.82
+        ],
+        [
+          0.58,
+          0.46
+        ],
+        [
+          0.9,
+          0.52
+        ],
+        [
+          0.6,
+          0.95
+        ],
+        [
+          0.72,
+          0.85
+        ],
+        [
+          0.82,
+          0.68
+        ],
+        [
+          0.6,
+          0.4
+        ],
+        [
+          0.9,
+          0.18
+        ]
+      ]
+    },
+    {
+      "id": "mg-wave",
+      "kind": "magnet",
+      "name": "浪花冰箱贴",
+      "artwork": "a7",
+      "description": "青釉浪花磁贴，背部双磁铁——贴在冰箱上也会想起海边",
+      "material": "珐琅与磁铁",
+      "color": "#2b5d66",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "浪形剪影、平釉、青绿",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          0.1,
+          0.32
+        ],
+        [
+          0.24,
+          0.08
+        ],
+        [
+          0.38,
+          0.42
+        ],
+        [
+          0.5,
+          0.14
+        ],
+        [
+          0.63,
+          0.48
+        ],
+        [
+          0.76,
+          0.2
+        ],
+        [
+          0.9,
+          0.5
+        ],
+        [
+          1,
+          0.28
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0.85,
+          0
+        ],
+        [
+          0.15,
+          0
+        ]
+      ],
+      "model": "mg-wave"
+    },
+    {
+      "id": "mg-sun",
+      "kind": "magnet",
+      "name": "落日冰箱贴",
+      "artwork": "a1",
+      "description": "橙色落日圆磁贴——把黄昏吸在冰箱门上",
+      "material": "珐琅与磁铁",
+      "color": "#c87a45",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "圆形剪影、橙色釉",
+      "outline": [
+        [
+          0.5,
+          0.04
+        ],
+        [
+          0.85,
+          0.13
+        ],
+        [
+          0.99,
+          0.39
+        ],
+        [
+          0.94,
+          0.66
+        ],
+        [
+          0.72,
+          0.88
+        ],
+        [
+          0.5,
+          0.96
+        ],
+        [
+          0.28,
+          0.88
+        ],
+        [
+          0.06,
+          0.66
+        ],
+        [
+          0.01,
+          0.39
+        ],
+        [
+          0.15,
+          0.13
+        ]
+      ],
+      "model": "mg-sun"
+    },
+    {
+      "id": "mg-star",
+      "kind": "magnet",
+      "name": "星形冰箱贴",
+      "artwork": "a12",
+      "description": "金釉五角星磁贴，浮雕星纹——奖励自己跑通的一段代码",
+      "material": "珐琅与磁铁",
+      "color": "#d9a44f",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "星形剪影、金色釉",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.61,
+          0.32
+        ],
+        [
+          0.92,
+          0.34
+        ],
+        [
+          0.68,
+          0.54
+        ],
+        [
+          0.79,
+          0.85
+        ],
+        [
+          0.5,
+          0.66
+        ],
+        [
+          0.21,
+          0.85
+        ],
+        [
+          0.32,
+          0.54
+        ],
+        [
+          0.08,
+          0.34
+        ],
+        [
+          0.39,
+          0.32
+        ]
+      ],
+      "model": "mg-star"
+    },
+    {
+      "id": "mg-mountain",
+      "kind": "magnet",
+      "name": "群山冰箱贴",
+      "artwork": "a9",
+      "description": "木色山形磁贴——备忘录上的小山峰",
+      "material": "珐琅与磁铁",
+      "color": "#b99b72",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "山峰剪影、木色釉",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          0.12,
+          0.34
+        ],
+        [
+          0.26,
+          0.1
+        ],
+        [
+          0.4,
+          0.55
+        ],
+        [
+          0.55,
+          0.18
+        ],
+        [
+          0.7,
+          0.6
+        ],
+        [
+          0.84,
+          0.22
+        ],
+        [
+          1,
+          0.42
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "model": "mg-mountain"
+    },
+    {
+      "id": "mg-arch",
+      "kind": "magnet",
+      "name": "拱窗冰箱贴",
+      "artwork": "a4",
+      "description": "深釉拱窗磁贴——像冰箱上开了一扇小窗",
+      "material": "珐琅与磁铁",
+      "color": "#3a3a38",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "拱门剪影、深釉",
+      "outline": [
+        [
+          0.02,
+          0
+        ],
+        [
+          0.02,
+          0.55
+        ],
+        [
+          0.08,
+          0.74
+        ],
+        [
+          0.2,
+          0.87
+        ],
+        [
+          0.5,
+          0.92
+        ],
+        [
+          0.8,
+          0.87
+        ],
+        [
+          0.92,
+          0.74
+        ],
+        [
+          0.98,
+          0.55
+        ],
+        [
+          0.98,
+          0
+        ],
+        [
+          0.8,
+          0
+        ],
+        [
+          0.2,
+          0
+        ]
+      ],
+      "model": "mg-arch"
+    },
+    {
+      "id": "mg-diamond",
+      "kind": "magnet",
+      "name": "菱形冰箱贴",
+      "artwork": "a10",
+      "description": "青绿菱形磁贴，浮雕缘——整齐得像缩进",
+      "material": "珐琅与磁铁",
+      "color": "#2b5d66",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "菱形剪影、浮雕缘",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.98,
+          0.5
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.02,
+          0.5
+        ]
+      ],
+      "model": "mg-diamond"
+    },
+    {
+      "id": "mg-moon",
+      "kind": "magnet",
+      "name": "新月冰箱贴",
+      "artwork": "a2",
+      "description": "金色月牙磁贴——深夜学习的小小陪伴",
+      "material": "珐琅与磁铁",
+      "color": "#d9a44f",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "月牙剪影、金色釉",
+      "outline": [
+        [
+          0.04,
+          0.05
+        ],
+        [
+          0.04,
+          0.95
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.8,
+          0.86
+        ],
+        [
+          0.96,
+          0.6
+        ],
+        [
+          0.98,
+          0.3
+        ],
+        [
+          0.85,
+          0.08
+        ],
+        [
+          0.5,
+          0.02
+        ]
+      ],
+      "model": "mg-moon"
+    },
+    {
+      "id": "mg-leaf",
+      "kind": "magnet",
+      "name": "叶片冰箱贴",
+      "artwork": "a5",
+      "description": "木色叶片磁贴，叶脉浮雕——夹住一张灵感便签",
+      "material": "珐琅与磁铁",
+      "color": "#b99b72",
+      "family": "magnet",
+      "construction": "珐琅浮雕磁贴：双层珐琅轮廓、米白内槽与按轮廓裁切的艺术画面，背贴双磁扣",
+      "designDifferences": "叶片剪影、浮雕纹",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.34,
+          0.12
+        ],
+        [
+          0.2,
+          0.3
+        ],
+        [
+          0.08,
+          0.52
+        ],
+        [
+          0.14,
+          0.78
+        ],
+        [
+          0.34,
+          0.94
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.66,
+          0.94
+        ],
+        [
+          0.86,
+          0.78
+        ],
+        [
+          0.92,
+          0.52
+        ],
+        [
+          0.8,
+          0.3
+        ],
+        [
+          0.66,
+          0.12
+        ]
+      ],
+      "model": "mg-leaf"
+    },
+    {
+      "id": "pin-sun",
+      "kind": "pins",
+      "name": "落日徽章",
+      "artwork": "a1",
+      "description": "圆形落日珐琅徽章——别在书包上的一枚小日落",
+      "material": "珐琅与钢",
+      "color": "#c87a45",
+      "family": "pin",
+      "construction": "圆盘珐琅面，别针背",
+      "designDifferences": "圆形、橙色釉、别针",
+      "outline": [
+        [
+          0.5,
+          0.04
+        ],
+        [
+          0.85,
+          0.13
+        ],
+        [
+          0.99,
+          0.39
+        ],
+        [
+          0.94,
+          0.66
+        ],
+        [
+          0.72,
+          0.88
+        ],
+        [
+          0.5,
+          0.96
+        ],
+        [
+          0.28,
+          0.88
+        ],
+        [
+          0.06,
+          0.66
+        ],
+        [
+          0.01,
+          0.39
+        ],
+        [
+          0.15,
+          0.13
+        ]
+      ]
+    },
+    {
+      "id": "pin-wave",
+      "kind": "pins",
+      "name": "浪纹徽章",
+      "artwork": "a7",
+      "description": "青绿浪纹徽章——海风味的勋章",
+      "material": "珐琅与钢",
+      "color": "#2b5d66",
+      "family": "pin",
+      "construction": "浪形珐琅面，别针背",
+      "designDifferences": "浪形、青绿釉、别针",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          0.1,
+          0.32
+        ],
+        [
+          0.24,
+          0.08
+        ],
+        [
+          0.38,
+          0.42
+        ],
+        [
+          0.5,
+          0.14
+        ],
+        [
+          0.63,
+          0.48
+        ],
+        [
+          0.76,
+          0.2
+        ],
+        [
+          0.9,
+          0.5
+        ],
+        [
+          1,
+          0.28
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0.85,
+          0
+        ],
+        [
+          0.15,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "pin-star",
+      "kind": "pins",
+      "name": "星形徽章",
+      "artwork": "a12",
+      "description": "金色五角星徽章——AI 比赛得奖那一枚",
+      "material": "珐琅与钢",
+      "color": "#d9a44f",
+      "family": "pin",
+      "construction": "星形珐琅面，别针背",
+      "designDifferences": "星形、金色釉、别针",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.61,
+          0.32
+        ],
+        [
+          0.92,
+          0.34
+        ],
+        [
+          0.68,
+          0.54
+        ],
+        [
+          0.79,
+          0.85
+        ],
+        [
+          0.5,
+          0.66
+        ],
+        [
+          0.21,
+          0.85
+        ],
+        [
+          0.32,
+          0.54
+        ],
+        [
+          0.08,
+          0.34
+        ],
+        [
+          0.39,
+          0.32
+        ]
+      ]
+    },
+    {
+      "id": "pin-mountain",
+      "kind": "pins",
+      "name": "群山徽章",
+      "artwork": "a9",
+      "description": "木色群山徽章——每一步都算数",
+      "material": "珐琅与钢",
+      "color": "#b99b72",
+      "family": "pin",
+      "construction": "山峰珐琅面，别针背",
+      "designDifferences": "山形、木色釉",
+      "outline": [
+        [
+          0,
+          0
+        ],
+        [
+          0.12,
+          0.34
+        ],
+        [
+          0.26,
+          0.1
+        ],
+        [
+          0.4,
+          0.55
+        ],
+        [
+          0.55,
+          0.18
+        ],
+        [
+          0.7,
+          0.6
+        ],
+        [
+          0.84,
+          0.22
+        ],
+        [
+          1,
+          0.42
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          0,
+          0
+        ]
+      ]
+    },
+    {
+      "id": "pin-neon",
+      "kind": "pins",
+      "name": "霓虹框徽章",
+      "artwork": "a4",
+      "description": "深釉方框徽章，霓虹感——城市夜色的印记",
+      "material": "珐琅与钢",
+      "color": "#3a3a38",
+      "family": "pin",
+      "construction": "方框珐琅面，别针背",
+      "designDifferences": "方形、深釉",
+      "outline": [
+        [
+          0.05,
+          0.05
+        ],
+        [
+          0.95,
+          0.05
+        ],
+        [
+          0.95,
+          0.95
+        ],
+        [
+          0.05,
+          0.95
+        ]
+      ]
+    },
+    {
+      "id": "pin-diamond",
+      "kind": "pins",
+      "name": "菱形徽章",
+      "artwork": "a10",
+      "description": "青绿菱形徽章，浮雕边——冷静又漂亮",
+      "material": "珐琅与钢",
+      "color": "#2b5d66",
+      "family": "pin",
+      "construction": "菱形珐琅面，别针背",
+      "designDifferences": "菱形、浮雕缘",
+      "outline": [
+        [
+          0.5,
+          0.02
+        ],
+        [
+          0.98,
+          0.5
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.02,
+          0.5
+        ]
+      ]
+    },
+    {
+      "id": "pin-moon",
+      "kind": "pins",
+      "name": "新月徽章",
+      "artwork": "a2",
+      "description": "金色月牙徽章——晚自习的同伴",
+      "material": "珐琅与钢",
+      "color": "#d9a44f",
+      "family": "pin",
+      "construction": "月牙珐琅面，别针背",
+      "designDifferences": "月牙、金色釉",
+      "outline": [
+        [
+          0.04,
+          0.05
+        ],
+        [
+          0.04,
+          0.95
+        ],
+        [
+          0.5,
+          0.98
+        ],
+        [
+          0.8,
+          0.86
+        ],
+        [
+          0.96,
+          0.6
+        ],
+        [
+          0.98,
+          0.3
+        ],
+        [
+          0.85,
+          0.08
+        ],
+        [
+          0.5,
+          0.02
+        ]
+      ]
+    },
+    {
+      "id": "pin-cactus",
+      "kind": "pins",
+      "name": "仙人掌徽章",
+      "artwork": "a3",
+      "description": "青绿仙人掌徽章——沙漠里也好好长大",
+      "material": "珐琅与钢",
+      "color": "#2b5d66",
+      "family": "pin",
+      "construction": "仙人掌珐琅面，别针背",
+      "designDifferences": "仙人掌形、青绿釉",
+      "outline": [
+        [
+          0.2,
+          0
+        ],
+        [
+          0.2,
+          0.3
+        ],
+        [
+          0.4,
+          0.3
+        ],
+        [
+          0.4,
+          0
+        ],
+        [
+          0.6,
+          0
+        ],
+        [
+          0.6,
+          0.55
+        ],
+        [
+          0.52,
+          0.55
+        ],
+        [
+          0.52,
+          0.72
+        ],
+        [
+          0.44,
+          0.72
+        ],
+        [
+          0.44,
+          0.85
+        ],
+        [
+          0.6,
+          0.85
+        ],
+        [
+          0.6,
+          1
+        ],
+        [
+          0.2,
+          1
+        ],
+        [
+          0.2,
+          0.85
+        ],
+        [
+          0.36,
+          0.85
+        ],
+        [
+          0.36,
+          0.72
+        ],
+        [
+          0.28,
+          0.72
+        ],
+        [
+          0.28,
+          0.55
+        ],
+        [
+          0.2,
+          0.55
+        ]
+      ]
+    },
+    {
+      "id": "pc-sea",
+      "kind": "postcards",
+      "name": "水粉·海岸日落明信片",
+      "artwork": "a1",
+      "description": "水粉海岸日落明信片，可写背面——寄给远方也寄给自己",
+      "material": "厚纸",
+      "color": "#c87a45",
+      "family": "postcard",
+      "construction": "水粉插画正面，分栏背面",
+      "designDifferences": "水粉媒介、横向色层构图"
+    },
+    {
+      "id": "pc-palm",
+      "kind": "postcards",
+      "name": "水粉·棕榈大道明信片",
+      "artwork": "a2",
+      "description": "水粉棕榈大道明信片——对称得像一次深呼吸",
+      "material": "厚纸",
+      "color": "#2b5d66",
+      "family": "postcard",
+      "construction": "水粉插画正面，分栏背面",
+      "designDifferences": "水粉媒介、对称剪影构图"
+    },
+    {
+      "id": "pc-canyon",
+      "kind": "postcards",
+      "name": "水粉·峡谷山径明信片",
+      "artwork": "a3",
+      "description": "水粉峡谷山径明信片——之字小路上慢慢走",
+      "material": "厚纸",
+      "color": "#b99b72",
+      "family": "postcard",
+      "construction": "水粉插画正面，分栏背面",
+      "designDifferences": "水粉媒介、之字动线构图"
+    },
+    {
+      "id": "pc-neon",
+      "kind": "postcards",
+      "name": "拼贴·霓虹街角明信片",
+      "artwork": "a4",
+      "description": "拼贴霓虹街角明信片——夜晚小店在等你",
+      "material": "厚纸",
+      "color": "#3a3a38",
+      "family": "postcard",
+      "construction": "拼贴插画正面，分栏背面",
+      "designDifferences": "拼贴媒介、夜间叙事构图"
+    },
+    {
+      "id": "pc-desk",
+      "kind": "postcards",
+      "name": "拼贴·工作台明信片",
+      "artwork": "a5",
+      "description": "拼贴工作台明信片——灵感留下的现场",
+      "material": "厚纸",
+      "color": "#b99b72",
+      "family": "postcard",
+      "construction": "拼贴插画正面，分栏背面",
+      "designDifferences": "拼贴媒介、俯视静物构图"
+    },
+    {
+      "id": "pc-wall",
+      "kind": "postcards",
+      "name": "拼贴·几何墙明信片",
+      "artwork": "a6",
+      "description": "拼贴几何墙明信片——光影分割的下午",
+      "material": "厚纸",
+      "color": "#2b5d66",
+      "family": "postcard",
+      "construction": "拼贴插画正面，分栏背面",
+      "designDifferences": "拼贴媒介、几何网格构图"
+    },
+    {
+      "id": "pc-wave",
+      "kind": "postcards",
+      "name": "木刻·浪明信片",
+      "artwork": "a7",
+      "description": "木刻浪花明信片——黑白里也有力量",
+      "material": "厚纸",
+      "color": "#2b5d66",
+      "family": "postcard",
+      "construction": "木刻插画正面，分栏背面",
+      "designDifferences": "木刻媒介、黑白留白构图"
+    },
+    {
+      "id": "pc-wood-palm",
+      "kind": "postcards",
+      "name": "木刻·棕榈明信片",
+      "artwork": "a8",
+      "description": "木刻棕榈明信片——一棵树的独白",
+      "material": "厚纸",
+      "color": "#3a3a38",
+      "family": "postcard",
+      "construction": "木刻插画正面，分栏背面",
+      "designDifferences": "木刻媒介、居中单体构图"
+    },
+    {
+      "id": "pc-mountain",
+      "kind": "postcards",
+      "name": "木刻·群山明信片",
+      "artwork": "a9",
+      "description": "木刻群山明信片——排线刻出的远方",
+      "material": "厚纸",
+      "color": "#b99b72",
+      "family": "postcard",
+      "construction": "木刻插画正面，分栏背面",
+      "designDifferences": "木刻媒介、排线纹理构图"
+    },
+    {
+      "id": "pc-diamond",
+      "kind": "postcards",
+      "name": "织纹·菱形明信片",
+      "artwork": "a10",
+      "description": "织纹菱形明信片——满版重复的温柔",
+      "material": "厚纸",
+      "color": "#2b5d66",
+      "family": "postcard",
+      "construction": "织物图案正面，分栏背面",
+      "designDifferences": "图案媒介、满版重复构图"
+    },
+    {
+      "id": "pc-dots",
+      "kind": "postcards",
+      "name": "织纹·圆点明信片",
+      "artwork": "a11",
+      "description": "织纹圆点明信片——像代码里的循环",
+      "material": "厚纸",
+      "color": "#2b5d66",
+      "family": "postcard",
+      "construction": "织物图案正面，分栏背面",
+      "designDifferences": "图案媒介、圆点网格构图"
+    },
+    {
+      "id": "pc-stars",
+      "kind": "postcards",
+      "name": "织纹·星形明信片",
+      "artwork": "a12",
+      "description": "织纹星形明信片——夜里数过的星星",
+      "material": "厚纸",
+      "color": "#c87a45",
+      "family": "postcard",
+      "construction": "织物图案正面，分栏背面",
+      "designDifferences": "图案媒介、星形交错构图"
+    },
+    {
+      "id": "plate-sun",
+      "kind": "custom",
+      "name": "落日圆盘",
+      "artwork": "a1",
+      "description": "浅圆盘，橙色釉面，碟心水粉日落——晚餐也要有黄昏",
+      "material": "釉面陶瓷",
+      "color": "#c87a45",
+      "family": "plate",
+      "construction": "圆缘浅盘，釉面，圈足",
+      "model": "plate-sun",
+      "designDifferences": "圆形轮廓、橙色釉"
+    },
+    {
+      "id": "plate-palm",
+      "kind": "custom",
+      "name": "棕榈方盘",
+      "artwork": "a2",
+      "description": "菱形方盘，青绿釉面，中心棕榈——端上桌的一角海岸",
+      "material": "釉面陶瓷",
+      "color": "#2b5d66",
+      "family": "plate",
+      "construction": "菱形方缘浅盘，釉面，圈足",
+      "model": "plate-palm",
+      "designDifferences": "菱形轮廓、青绿釉"
+    },
+    {
+      "id": "plate-canyon",
+      "kind": "custom",
+      "name": "山径椭圆盘",
+      "artwork": "a3",
+      "description": "椭圆浅盘，木色釉面，中心山径——小径通向好吃的",
+      "material": "釉面陶瓷",
+      "color": "#b99b72",
+      "family": "plate",
+      "construction": "椭圆浅盘，釉面，圈足",
+      "model": "plate-canyon",
+      "designDifferences": "椭圆轮廓、木色釉"
+    },
+    {
+      "id": "plate-neon",
+      "kind": "custom",
+      "name": "霓虹花瓣盘",
+      "artwork": "a4",
+      "description": "五瓣花形浅盘，深釉拼贴——夜晚也开花",
+      "material": "釉面陶瓷",
+      "color": "#3a3a38",
+      "family": "plate",
+      "construction": "五瓣花缘浅盘，釉面，圈足",
+      "model": "plate-neon",
+      "designDifferences": "花瓣轮廓、深釉"
+    },
+    {
+      "id": "plate-desk",
+      "kind": "custom",
+      "name": "四叶工作盘",
+      "artwork": "a5",
+      "description": "四叶浅盘，暖木釉面，中心拼贴——工作台上的一小片花园",
+      "material": "釉面陶瓷",
+      "color": "#b99b72",
+      "family": "plate",
+      "construction": "四叶缘浅盘，釉面，圈足",
+      "model": "plate-desk",
+      "designDifferences": "四叶轮廓、暖木釉"
+    },
+    {
+      "id": "plate-wall",
+      "kind": "custom",
+      "name": "六角建筑盘",
+      "artwork": "a6",
+      "description": "六角浅盘，青绿釉面，几何拼贴——结构感也是美",
+      "material": "釉面陶瓷",
+      "color": "#2b5d66",
+      "family": "plate",
+      "construction": "六角缘浅盘，釉面，圈足",
+      "model": "plate-wall",
+      "designDifferences": "六角轮廓、青绿釉"
+    },
+    {
+      "id": "plate-wave",
+      "kind": "custom",
+      "name": "扇贝浪纹盘",
+      "artwork": "a7",
+      "description": "扇贝形浅盘，青釉浪纹——把海浪盛起来",
+      "material": "釉面陶瓷",
+      "color": "#2b5d66",
+      "family": "plate",
+      "construction": "扇贝缘浅盘，釉面，圈足",
+      "model": "plate-wave",
+      "designDifferences": "扇贝轮廓、波浪缘"
+    },
+    {
+      "id": "plate-stars",
+      "kind": "custom",
+      "name": "三星缀饰盘",
+      "artwork": "a12",
+      "description": "三瓣圆润浅盘，金釉星纹——星光可以放盘子",
+      "material": "釉面陶瓷",
+      "color": "#d9a44f",
+      "family": "plate",
+      "construction": "三瓣缘浅盘，釉面，圈足",
+      "model": "plate-stars",
+      "designDifferences": "三瓣轮廓、金色釉"
+    },
+    {
+      "id": "dish-sea",
+      "kind": "custom",
+      "name": "海岸小碟",
+      "artwork": "a1",
+      "description": "深口圆碟，橙色釉面——给零碎小物一间海边小屋",
+      "material": "釉面陶瓷",
+      "color": "#c87a45",
+      "family": "dish",
+      "construction": "圆缘深碟，高缘，圈足",
+      "model": "dish-sea",
+      "designDifferences": "圆缘、深碟构造、橙色"
+    },
+    {
+      "id": "dish-palm",
+      "kind": "custom",
+      "name": "棕榈小碟",
+      "artwork": "a2",
+      "description": "深口椭圆碟，青绿釉面——钥匙与皮筋的家",
+      "material": "釉面陶瓷",
+      "color": "#2b5d66",
+      "family": "dish",
+      "construction": "椭圆缘深碟，高缘，圈足",
+      "model": "dish-palm",
+      "designDifferences": "椭圆缘、深碟构造、青绿"
+    },
+    {
+      "id": "dish-trail",
+      "kind": "custom",
+      "name": "山径小碟",
+      "artwork": "a3",
+      "description": "深口方碟，木色釉面——小物也要走之字路",
+      "material": "釉面陶瓷",
+      "color": "#b99b72",
+      "family": "dish",
+      "construction": "方缘深碟，高缘，圈足",
+      "model": "dish-trail",
+      "designDifferences": "方缘、深碟构造、木色"
+    },
+    {
+      "id": "dish-neon",
+      "kind": "custom",
+      "name": "霓虹小碟",
+      "artwork": "a4",
+      "description": "深口花瓣碟，深釉——夜里亮晶晶的收纳",
+      "material": "釉面陶瓷",
+      "color": "#3a3a38",
+      "family": "dish",
+      "construction": "花瓣缘深碟，高缘，圈足",
+      "model": "dish-neon",
+      "designDifferences": "花瓣缘、深碟构造、深釉"
+    },
+    {
+      "id": "dish-desk",
+      "kind": "custom",
+      "name": "六角小碟",
+      "artwork": "a5",
+      "description": "深口六角碟，暖木釉面——笔帽的停机坪",
+      "material": "釉面陶瓷",
+      "color": "#b99b72",
+      "family": "dish",
+      "construction": "六角缘深碟，高缘，圈足",
+      "model": "dish-desk",
+      "designDifferences": "六角缘、深碟构造、暖木"
+    },
+    {
+      "id": "dish-wall",
+      "kind": "custom",
+      "name": "菱形小碟",
+      "artwork": "a6",
+      "description": "深口菱形碟，青绿釉面——几何的秩序感",
+      "material": "釉面陶瓷",
+      "color": "#2b5d66",
+      "family": "dish",
+      "construction": "菱形缘深碟，高缘，圈足",
+      "model": "dish-wall",
+      "designDifferences": "菱形缘、深碟构造、青绿"
+    },
+    {
+      "id": "dish-wave",
+      "kind": "custom",
+      "name": "波缘小碟",
+      "artwork": "a7",
+      "description": "深口波浪缘碟——装不住的开心",
+      "material": "釉面陶瓷",
+      "color": "#2b5d66",
+      "family": "dish",
+      "construction": "波浪缘深碟，高缘，圈足",
+      "model": "dish-wave",
+      "designDifferences": "波浪缘、深碟构造"
+    },
+    {
+      "id": "dish-stars",
+      "kind": "custom",
+      "name": "星芒小碟",
+      "artwork": "a12",
+      "description": "深口八角星碟，金釉——星星也来收纳",
+      "material": "釉面陶瓷",
+      "color": "#d9a44f",
+      "family": "dish",
+      "construction": "八角星缘深碟，高缘，圈足",
+      "model": "dish-stars",
+      "designDifferences": "八角星缘、深碟构造、金色"
+    },
+    {
+      "id": "pr-sea",
+      "kind": "print",
+      "name": "挂画·海岸日落",
+      "artwork": "a1",
+      "description": "装裱水粉海岸日落，木框——房间里永远留一角黄昏",
+      "material": "纸与木框",
+      "color": "#c87a45",
+      "family": "wall-art",
+      "construction": "水粉插画，木框装裱",
+      "designDifferences": "水粉媒介、横幅构图"
+    },
+    {
+      "id": "pr-palm",
+      "kind": "print",
+      "name": "挂画·棕榈大道",
+      "artwork": "a2",
+      "description": "装裱水粉棕榈大道，深框——对称的宁静",
+      "material": "纸与木框",
+      "color": "#2b5d66",
+      "family": "wall-art",
+      "construction": "水粉插画，深框装裱",
+      "designDifferences": "水粉媒介、对称构图、深框"
+    },
+    {
+      "id": "pr-canyon",
+      "kind": "print",
+      "name": "挂画·峡谷山径",
+      "artwork": "a3",
+      "description": "装裱水粉峡谷山径，木框——远方挂上墙",
+      "material": "纸与木框",
+      "color": "#b99b72",
+      "family": "wall-art",
+      "construction": "水粉插画，木框装裱",
+      "designDifferences": "水粉媒介、之字构图"
+    },
+    {
+      "id": "pr-neon",
+      "kind": "print",
+      "name": "挂画·霓虹街角",
+      "artwork": "a4",
+      "description": "装裱拼贴霓虹街角，深框——夜晚的一盏灯",
+      "material": "纸与木框",
+      "color": "#3a3a38",
+      "family": "wall-art",
+      "construction": "拼贴插画，深框装裱",
+      "designDifferences": "拼贴媒介、夜间构图、深框"
+    },
+    {
+      "id": "pr-desk",
+      "kind": "print",
+      "name": "挂画·创作工作台",
+      "artwork": "a5",
+      "description": "装裱拼贴工作台，木框——灵感工作间的纪念",
+      "material": "纸与木框",
+      "color": "#b99b72",
+      "family": "wall-art",
+      "construction": "拼贴插画，木框装裱",
+      "designDifferences": "拼贴媒介、俯视构图"
+    },
+    {
+      "id": "pr-wave",
+      "kind": "print",
+      "name": "挂画·木刻浪",
+      "artwork": "a7",
+      "description": "装裱木刻浪纹，深框——黑白浪花也澎湃",
+      "material": "纸与木框",
+      "color": "#2b5d66",
+      "family": "wall-art",
+      "construction": "木刻插画，深框装裱",
+      "designDifferences": "木刻媒介、黑白构图、深框"
+    },
+    {
+      "id": "cloth-diamond",
+      "kind": "custom",
+      "name": "菱形织纹桌布",
+      "artwork": "a10",
+      "description": "青绿橙菱形织纹桌布，垂边——一起写作业也像过节",
+      "material": "棉麻",
+      "color": "#2b5d66",
+      "family": "tablecloth",
+      "construction": "菱形织物图案，垂边",
+      "model": "cloth-diamond",
+      "designDifferences": "菱形图案、短垂边"
+    },
+    {
+      "id": "cloth-dots",
+      "kind": "custom",
+      "name": "圆点波纹桌布",
+      "artwork": "a11",
+      "description": "青绿圆点波纹桌布，中垂边——圆点是循环的节奏",
+      "material": "棉麻",
+      "color": "#2b5d66",
+      "family": "tablecloth",
+      "construction": "圆点织物图案，垂边",
+      "model": "cloth-dots",
+      "designDifferences": "圆点图案、中垂边"
+    },
+    {
+      "id": "cloth-stars",
+      "kind": "custom",
+      "name": "星形织纹桌布",
+      "artwork": "a12",
+      "description": "星形织纹桌布，流苏长垂边——把星星铺上桌",
+      "material": "棉麻流苏",
+      "color": "#c87a45",
+      "family": "tablecloth",
+      "construction": "星形织物图案，流苏垂边",
+      "model": "cloth-stars",
+      "designDifferences": "星形图案、流苏长垂边"
+    },
+    {
+      "id": "jn-sea",
+      "kind": "custom",
+      "model": "jn-sea",
+      "name": "海岸日落笔记本",
+      "artwork": "a1",
+      "description": "水粉封面笔记本，橙色布脊——第一页留给海边",
+      "material": "纸与布",
+      "color": "#c87a45",
+      "family": "notebook",
+      "construction": "水粉封面，布脊，页边",
+      "designDifferences": "水粉封面、橙色布脊"
+    },
+    {
+      "id": "jn-palm",
+      "kind": "custom",
+      "model": "jn-palm",
+      "name": "棕榈大道笔记本",
+      "artwork": "a2",
+      "description": "水粉封面笔记本，青绿布脊——记下大道尽头的风",
+      "material": "纸与布",
+      "color": "#2b5d66",
+      "family": "notebook",
+      "construction": "水粉封面，布脊，页边",
+      "designDifferences": "水粉封面、青绿布脊"
+    },
+    {
+      "id": "jn-canyon",
+      "kind": "custom",
+      "model": "jn-canyon",
+      "name": "峡谷山径笔记本",
+      "artwork": "a3",
+      "description": "水粉封面笔记本，木色布脊——写写走走停停",
+      "material": "纸与布",
+      "color": "#b99b72",
+      "family": "notebook",
+      "construction": "水粉封面，布脊，页边",
+      "designDifferences": "水粉封面、木色布脊"
+    },
+    {
+      "id": "jn-neon",
+      "kind": "custom",
+      "model": "jn-neon",
+      "name": "霓虹街角笔记本",
+      "artwork": "a4",
+      "description": "拼贴封面笔记本，深色布脊——夜晚的灵感不睡",
+      "material": "纸与布",
+      "color": "#3a3a38",
+      "family": "notebook",
+      "construction": "拼贴封面，布脊，页边",
+      "designDifferences": "拼贴封面、深色布脊"
+    },
+    {
+      "id": "jn-desk",
+      "kind": "custom",
+      "model": "jn-desk",
+      "name": "工作台笔记本",
+      "artwork": "a5",
+      "description": "拼贴封面笔记本，木色布脊——工作台上长出的本子",
+      "material": "纸与布",
+      "color": "#b99b72",
+      "family": "notebook",
+      "construction": "拼贴封面，布脊，页边",
+      "designDifferences": "拼贴封面、木色布脊"
+    },
+    {
+      "id": "jn-wave",
+      "kind": "custom",
+      "model": "jn-wave",
+      "name": "木刻浪纹笔记本",
+      "artwork": "a7",
+      "description": "木刻封面笔记本，青绿布脊——黑白也有韵律",
+      "material": "纸与布",
+      "color": "#2b5d66",
+      "family": "notebook",
+      "construction": "木刻封面，布脊，页边",
+      "designDifferences": "木刻封面、青绿布脊"
+    },
+    {
+      "id": "pen-classic",
+      "kind": "custom",
+      "name": "经典圆珠笔",
+      "artwork": "a10",
+      "description": "青绿圆杆，黄铜笔尖与笔夹——写第一行代码的那支",
+      "material": "黄铜与树脂",
+      "color": "#2b5d66",
+      "family": "pen",
+      "construction": "圆杆、锥尖、笔夹、标签",
+      "model": "pen-classic",
+      "designDifferences": "圆杆、金属笔夹、青绿"
+    },
+    {
+      "id": "pen-cap",
+      "kind": "custom",
+      "name": "带帽圆珠笔",
+      "artwork": "a2",
+      "description": "青绿杆橙帽，帽夹——像落日给钢笔戴上帽子",
+      "material": "黄铜与树脂",
+      "color": "#2b5d66",
+      "family": "pen",
+      "construction": "圆杆、笔帽、帽夹、标签",
+      "model": "pen-cap",
+      "designDifferences": "笔帽构造、双色杆帽、橙色帽"
+    },
+    {
+      "id": "pen-hex",
+      "kind": "custom",
+      "name": "六角杆笔",
+      "artwork": "a3",
+      "description": "青绿六角杆，黄铜夹——握感扎实如好结构",
+      "material": "黄铜与树脂",
+      "color": "#2b5d66",
+      "family": "pen",
+      "construction": "六角杆、锥尖、笔夹",
+      "model": "pen-hex",
+      "designDifferences": "六角杆型、笔夹构造"
+    },
+    {
+      "id": "pen-mini",
+      "kind": "custom",
+      "name": "短款口袋笔",
+      "artwork": "a4",
+      "description": "深色短粗杆，无帽圆头——口袋里的应急笔",
+      "material": "树脂与钢",
+      "color": "#3a3a38",
+      "family": "pen",
+      "construction": "短粗杆、圆头尾塞、标签",
+      "model": "pen-mini",
+      "designDifferences": "短粗比例、无帽构造、深色"
+    },
+    {
+      "id": "pen-quill",
+      "kind": "custom",
+      "name": "羽毛尾笔",
+      "artwork": "a5",
+      "description": "木色杆纸羽毛尾饰——灵感像羽毛一样轻",
+      "material": "黄铜与纸羽",
+      "color": "#b99b72",
+      "family": "pen",
+      "construction": "圆杆、羽毛尾饰、羽轴",
+      "model": "pen-quill",
+      "designDifferences": "羽毛尾饰、木色杆"
+    },
+    {
+      "id": "pen-palm",
+      "kind": "custom",
+      "name": "棕榈尾笔",
+      "artwork": "a7",
+      "description": "青绿杆棕榈叶尾饰——笔尖长出一棵树",
+      "material": "黄铜与树脂叶",
+      "color": "#2b5d66",
+      "family": "pen",
+      "construction": "圆杆、五叶棕榈尾饰",
+      "model": "pen-palm",
+      "designDifferences": "棕榈叶尾饰、青绿杆"
+    },
+    {
+      "id": "cs-sea",
+      "kind": "custom",
+      "model": "cs-sea",
+      "name": "海岸杯垫组",
+      "artwork": "a1",
+      "description": "四枚圆杯垫，水粉日落与浪纹组——写代码时的海岸线",
+      "material": "软木与纸",
+      "color": "#c87a45",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "日落色系图案组"
+    },
+    {
+      "id": "cs-palm",
+      "kind": "custom",
+      "model": "cs-palm",
+      "name": "棕榈杯垫组",
+      "artwork": "a2",
+      "description": "四枚杯垫，水粉棕榈与几何组——杯底的绿荫",
+      "material": "软木与纸",
+      "color": "#2b5d66",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "青绿色系图案组"
+    },
+    {
+      "id": "cs-canyon",
+      "kind": "custom",
+      "model": "cs-canyon",
+      "name": "峡谷杯垫组",
+      "artwork": "a3",
+      "description": "四枚杯垫，水粉山径与拼贴组——翻过一座山再喝一口",
+      "material": "软木与纸",
+      "color": "#b99b72",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "木色系图案组"
+    },
+    {
+      "id": "cs-neon",
+      "kind": "custom",
+      "model": "cs-neon",
+      "name": "霓虹杯垫组",
+      "artwork": "a4",
+      "description": "四枚杯垫，拼贴霓虹与木刻组——深夜的桌面霓虹",
+      "material": "软木与纸",
+      "color": "#3a3a38",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "深色系图案组"
+    },
+    {
+      "id": "cs-desk",
+      "kind": "custom",
+      "model": "cs-desk",
+      "name": "工作台杯垫组",
+      "artwork": "a5",
+      "description": "四枚杯垫，拼贴工作台与木刻组——灵感歇脚的地方",
+      "material": "软木与纸",
+      "color": "#b99b72",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "暖木系图案组"
+    },
+    {
+      "id": "cs-wall",
+      "kind": "custom",
+      "model": "cs-wall",
+      "name": "几何墙杯垫组",
+      "artwork": "a6",
+      "description": "四枚杯垫，拼贴几何与木刻组——秩序之美",
+      "material": "软木与纸",
+      "color": "#2b5d66",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "青绿几何系图案组"
+    },
+    {
+      "id": "cs-wave",
+      "kind": "custom",
+      "model": "cs-wave",
+      "name": "浪纹杯垫组",
+      "artwork": "a7",
+      "description": "四枚杯垫，木刻浪纹与织纹组——黑白浪花桌面巡游",
+      "material": "软木与纸",
+      "color": "#2b5d66",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "黑白木刻系图案组"
+    },
+    {
+      "id": "cs-wood",
+      "kind": "custom",
+      "model": "cs-wood",
+      "name": "木刻杯垫组",
+      "artwork": "a8",
+      "description": "四枚杯垫，木刻棕榈与织纹组——木刻线条的安静",
+      "material": "软木与纸",
+      "color": "#3a3a38",
+      "family": "coaster",
+      "construction": "四枚一组，圆形软木底",
+      "designDifferences": "木刻单线系图案组"
+    },
+    {
+      "id": "pc-n1",
+      "kind": "postcards",
+      "name": "领奖台的黄昏明信片",
+      "artwork": "n1",
+      "description": "赛场黄昏水粉卡——把领奖的傍晚寄回家",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n2",
+      "kind": "postcards",
+      "name": "橘子色的妙招明信片",
+      "artwork": "n2",
+      "description": "黑背心少年与落日圆窗——亲测有效的温柔",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n3",
+      "kind": "postcards",
+      "name": "上升的箭头明信片",
+      "artwork": "n3",
+      "description": "上升箭头拼贴卡——每一次都向上一点点",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n4",
+      "kind": "postcards",
+      "name": "笑场的夜晚明信片",
+      "artwork": "n4",
+      "description": "笑场夜晚水粉卡——机器人也陪着笑",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n5",
+      "kind": "postcards",
+      "name": "翻开的一页明信片",
+      "artwork": "n5",
+      "description": "翻开书本的暖橙版画卡——知识库的第一页",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n6",
+      "kind": "postcards",
+      "name": "抓狂的问号明信片",
+      "artwork": "n6",
+      "description": "抓狂问号拼贴卡——崩溃了也能被温柔接住",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n7",
+      "kind": "postcards",
+      "name": "三秒学会明信片",
+      "artwork": "n7",
+      "description": "浅蓝T恤水粉肖像卡——零门槛的专注",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n8",
+      "kind": "postcards",
+      "name": "避坑小册明信片",
+      "artwork": "n8",
+      "description": "运动服织纹卡——避坑指南也像晴空",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n9",
+      "kind": "postcards",
+      "name": "多屏之夜明信片",
+      "artwork": "n9",
+      "description": "多屏之夜版画卡——深夜的每一行代码",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-n10",
+      "kind": "postcards",
+      "name": "导师的鼓励明信片",
+      "artwork": "n10",
+      "description": "导师鼓励水粉卡——被看见的小小进步",
+      "material": "厚纸",
+      "color": "#ffb45e",
+      "family": "postcard",
+      "construction": "插画正面，分栏背面",
+      "designDifferences": "独立插画构图、柑橘暖调媒介"
+    },
+    {
+      "id": "pc-o1",
+      "kind": "postcards",
+      "artwork": "o1",
+      "name": "电视机的备忘 · 明信片",
+      "description": "AI四小只 系列新作明信片，源自未公开的照片瞬间。",
+      "material": "艺术纸",
+      "category": "个人纪念品",
+      "derivation": "改写自用户提供的 AI四小只 账号素材",
+      "family": "postcard",
+      "color": "#b99b72"
+    },
+    {
+      "id": "pc-o2",
+      "kind": "postcards",
+      "artwork": "o2",
+      "name": "窗边的落日 · 明信片",
+      "description": "AI四小只 系列新作明信片，源自未公开的照片瞬间。",
+      "material": "艺术纸",
+      "category": "个人纪念品",
+      "derivation": "改写自用户提供的 AI四小只 账号素材",
+      "family": "postcard",
+      "color": "#b99b72"
+    },
+    {
+      "id": "pc-o3",
+      "kind": "postcards",
+      "artwork": "o3",
+      "name": "巨大的代码书 · 明信片",
+      "description": "AI四小只 系列新作明信片，源自未公开的照片瞬间。",
+      "material": "艺术纸",
+      "category": "个人纪念品",
+      "derivation": "改写自用户提供的 AI四小只 账号素材",
+      "family": "postcard",
+      "color": "#b99b72"
+    },
+    {
+      "id": "pc-o4",
+      "kind": "postcards",
+      "artwork": "o4",
+      "name": "街角的存钱罐 · 明信片",
+      "description": "AI四小只 系列新作明信片，源自未公开的照片瞬间。",
+      "material": "艺术纸",
+      "category": "个人纪念品",
+      "derivation": "改写自用户提供的 AI四小只 账号素材",
+      "family": "postcard",
+      "color": "#b99b72"
+    },
+    {
+      "id": "pc-o5",
+      "kind": "postcards",
+      "artwork": "o5",
+      "name": "碰杯的黄昏 · 明信片",
+      "description": "AI四小只 系列新作明信片，源自未公开的照片瞬间。",
+      "material": "艺术纸",
+      "category": "个人纪念品",
+      "derivation": "改写自用户提供的 AI四小只 账号素材",
+      "family": "postcard",
+      "color": "#b99b72"
+    },
+    {
+      "id": "pc-o6",
+      "kind": "postcards",
+      "artwork": "o6",
+      "name": "领奖的舞台 · 明信片",
+      "description": "AI四小只 系列新作明信片，源自未公开的照片瞬间。",
+      "material": "艺术纸",
+      "category": "个人纪念品",
+      "derivation": "改写自用户提供的 AI四小只 账号素材",
+      "family": "postcard",
+      "color": "#b99b72"
+    }
+  ],
+  "scene": {
+    "seed": "sunset-studio-2026-01",
+    "concept": "把虚构的洛杉矶日落与创作者工作室记忆转译成一间 teal 墙面、暖木家具、柑橘色灯光的纪念品店；西墙增设「小创作者画廊」，以温馨柑橘色调的插画展出 AI 四小只四位少年与机器人的日常。",
+    "subtitle": "SUNSET STUDIO / SOUVENIR SHOP",
+    "evidence": [
+      {
+        "photo": "p1",
+        "observation": "虚构素材：海岸日落的多层色带",
+        "decisions": [
+          "teal 主墙面呼应海色",
+          "橙色釉陶器作强调色",
+          "东窗引入黄昏向光"
+        ]
+      },
+      {
+        "photo": "p5",
+        "observation": "虚构素材：创作者工作台的纸张与台灯",
+        "decisions": [
+          "中央长台陈列陶器与纸品",
+          "暖木家具配黑铁框架",
+          "吊灯补充暖光焦点"
+        ]
+      },
+      {
+        "photo": "p6",
+        "observation": "虚构素材：几何墙面的光影分割",
+        "decisions": [
+          "织物挂帘作天花板层次",
+          "成组错层陈列、非网格排列",
+          "深色框架建立竖向节奏"
+        ]
+      },
+      {
+        "photo": "q1",
+        "observation": "用户提供的 AI 四小只账号素材：四位戴眼镜的少年形象",
+        "decisions": [
+          "西墙增设人物插画画廊，柑橘色系统一展览",
+          "商品文案加入四小只叙事",
+          "灯光调暖为温馨柑橘色"
+        ]
+      }
+    ],
+    "room": {
+      "width": 7.5,
+      "depth": 8.5,
+      "height": 3.6,
+      "wall": "#2b5d66",
+      "floor": "#b09068",
+      "ceiling": "#efe7d6",
+      "trim": "#3a3a38",
+      "floorPattern": "planks",
+      "wallTreatment": "plain"
+    },
+    "fixtures": [
+      {
+        "id": "shelf-main",
+        "kind": "shelf",
+        "at": [
+          -0.35,
+          0,
+          -3.75
+        ],
+        "size": [
+          4.7,
+          2.5,
+          0.5
+        ],
+        "levels": 5,
+        "backed": true,
+        "color": "#b99b72",
+        "frameColor": "#3a3a38",
+        "label": "SUNSET WALL"
+      },
+      {
+        "id": "card-rack",
+        "kind": "card-rack",
+        "at": [
+          2.85,
+          0,
+          -3.95
+        ],
+        "size": [
+          1.6,
+          2.5,
+          0.2
+        ],
+        "levels": 5,
+        "backed": true,
+        "color": "#c87a45",
+        "frameColor": "#3a3a38",
+        "label": "POSTCARDS"
+      },
+      {
+        "id": "pegboard",
+        "kind": "pegboard",
+        "at": [
+          -3.35,
+          0,
+          -3.88
+        ],
+        "size": [
+          1.0,
+          2.4,
+          0.08
+        ],
+        "color": "#b99b72",
+        "frameColor": "#3a3a38",
+        "label": "KEYS"
+      },
+      {
+        "id": "rail",
+        "kind": "rail",
+        "at": [
+          -3.45,
+          0,
+          0.55
+        ],
+        "size": [
+          1.6,
+          2.0,
+          0.12
+        ],
+        "color": "#c87a45",
+        "frameColor": "#3a3a38"
+      },
+      {
+        "id": "window",
+        "kind": "window",
+        "at": [
+          3.65,
+          1.9,
+          -0.4
+        ],
+        "size": [
+          2.2,
+          1.9,
+          0.08
+        ],
+        "color": "#cfe0e2",
+        "frameColor": "#efe7d6",
+        "collision": false
+      },
+      {
+        "id": "ledge",
+        "kind": "ledge",
+        "at": [
+          3.45,
+          0,
+          -0.4
+        ],
+        "size": [
+          2.3,
+          0.52,
+          0.34
+        ],
+        "color": "#b99b72",
+        "frameColor": "#3a3a38"
+      },
+      {
+        "id": "worktable",
+        "kind": "trestle",
+        "at": [
+          0,
+          0,
+          -0.15
+        ],
+        "size": [
+          3.6,
+          0.85,
+          1.25
+        ],
+        "color": "#e9e2d2",
+        "frameColor": "#c87a45",
+        "label": "CERAMICS"
+      },
+      {
+        "id": "table-cloth",
+        "kind": "table",
+        "at": [
+          2.25,
+          0,
+          1.6
+        ],
+        "size": [
+          1.85,
+          0.75,
+          0.95
+        ],
+        "color": "#b99b72",
+        "frameColor": "#3a3a38"
+      },
+      {
+        "id": "trestle-small",
+        "kind": "trestle",
+        "at": [
+          -2.3,
+          0,
+          1.75
+        ],
+        "size": [
+          1.55,
+          0.75,
+          0.8
+        ],
+        "color": "#c87a45",
+        "frameColor": "#3a3a38"
+      },
+      {
+        "id": "plinth-ent",
+        "kind": "plinth",
+        "at": [
+          -1.5,
+          0,
+          3.15
+        ],
+        "size": [
+          0.85,
+          0.62,
+          0.85
+        ],
+        "color": "#e9e2d2"
+      },
+      {
+        "id": "crate-low",
+        "kind": "crate",
+        "at": [
+          1.75,
+          0,
+          3.2
+        ],
+        "size": [
+          0.85,
+          0.55,
+          0.7
+        ],
+        "color": "#b99b72",
+        "frameColor": "#3a3a38"
+      },
+      {
+        "id": "basket",
+        "kind": "basket",
+        "at": [
+          0.85,
+          0,
+          3.6
+        ],
+        "size": [
+          0.62,
+          0.5,
+          0.62
+        ],
+        "color": "#c87a45",
+        "frameColor": "#3a3a38"
+      },
+      {
+        "id": "canopy-0",
+        "kind": "canopy",
+        "at": [
+          -2.0,
+          3.42,
+          -0.6
+        ],
+        "size": [
+          0.6,
+          0.3,
+          5.8
+        ],
+        "artwork": "a10",
+        "collision": false
+      },
+      {
+        "id": "canopy-1",
+        "kind": "canopy",
+        "at": [
+          -0.6,
+          3.42,
+          -0.6
+        ],
+        "size": [
+          0.6,
+          0.3,
+          5.8
+        ],
+        "artwork": "a11",
+        "collision": false
+      },
+      {
+        "id": "canopy-2",
+        "kind": "canopy",
+        "at": [
+          0.8,
+          3.42,
+          -0.6
+        ],
+        "size": [
+          0.6,
+          0.3,
+          5.8
+        ],
+        "artwork": "a12",
+        "collision": false
+      },
+      {
+        "id": "pendant-0",
+        "kind": "pendant",
+        "at": [
+          -1.7,
+          2.5,
+          -1.9
+        ],
+        "size": [
+          0.46,
+          0.62,
+          0.46
+        ],
+        "color": "#c87a45",
+        "collision": false
+      },
+      {
+        "id": "pendant-1",
+        "kind": "pendant",
+        "at": [
+          0.9,
+          2.5,
+          0.9
+        ],
+        "size": [
+          0.46,
+          0.62,
+          0.46
+        ],
+        "color": "#c87a45",
+        "collision": false
+      },
+      {
+        "id": "pendant-2",
+        "kind": "pendant",
+        "at": [
+          1.7,
+          2.5,
+          -2.6
+        ],
+        "size": [
+          0.46,
+          0.62,
+          0.46
+        ],
+        "color": "#d9a44f",
+        "collision": false
+      },
+      {
+        "id": "memory-board",
+        "kind": "shelf",
+        "at": [
+          -2.6,
+          0.7,
+          3.0
+        ],
+        "size": [
+          2.6,
+          1.0,
+          0.22
+        ],
+        "levels": 2,
+        "backed": true,
+        "color": "#b99b72",
+        "frameColor": "#3a3a38",
+        "label": "MEMORIES"
+      },
+      {
+        "id": "maker-gallery",
+        "kind": "shelf",
+        "at": [
+          -3.5,
+          0.7,
+          -0.48
+        ],
+        "size": [
+          2.6,
+          1.5,
+          0.18
+        ],
+        "levels": 2,
+        "backed": true,
+        "rotation": 1.5708,
+        "color": "#b99b72",
+        "frameColor": "#3a3a38",
+        "label": "GALLERY"
+      },
+      {
+        "id": "cloth-table",
+        "kind": "trestle",
+        "at": [
+          -2.9,
+          0,
+          3.8
+        ],
+        "size": [
+          1.9,
+          0.8,
+          0.7
+        ],
+        "color": "#b99b72",
+        "frameColor": "#3a3a38"
+      }
+    ],
+    "placements": [
+      {
+        "type": "card-0",
+        "fixture": "card-rack",
+        "at": [
+          -0.6,
+          2.44,
+          0.1
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-1",
+        "fixture": "card-rack",
+        "at": [
+          -0.3,
+          2.44,
+          0.1
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-2",
+        "fixture": "card-rack",
+        "at": [
+          0,
+          2.44,
+          0.1
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-3",
+        "fixture": "card-rack",
+        "at": [
+          0.3,
+          2.44,
+          0.1
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-4",
+        "fixture": "card-rack",
+        "at": [
+          0.6,
+          2.44,
+          0.1
+        ],
+        "wall": true
+      },
+      {
+        "type": "memory-pc-sea",
+        "fixture": "card-rack",
+        "at": [
+          -0.8,
+          0.135,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-palm",
+        "fixture": "card-rack",
+        "at": [
+          -0.35,
+          0.135,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-canyon",
+        "fixture": "card-rack",
+        "at": [
+          0.1,
+          0.135,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-neon",
+        "fixture": "card-rack",
+        "at": [
+          -0.8,
+          0.715,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-desk",
+        "fixture": "card-rack",
+        "at": [
+          -0.35,
+          0.715,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-wall",
+        "fixture": "card-rack",
+        "at": [
+          0.1,
+          0.715,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-wave",
+        "fixture": "card-rack",
+        "at": [
+          -0.8,
+          1.295,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-wood-palm",
+        "fixture": "card-rack",
+        "at": [
+          -0.35,
+          1.295,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-mountain",
+        "fixture": "card-rack",
+        "at": [
+          0.1,
+          1.295,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-diamond",
+        "fixture": "card-rack",
+        "at": [
+          -0.8,
+          1.875,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-dots",
+        "fixture": "card-rack",
+        "at": [
+          -0.35,
+          1.875,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-stars",
+        "fixture": "card-rack",
+        "at": [
+          0.1,
+          1.875,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-mg-wave",
+        "fixture": "shelf-main",
+        "at": [
+          -1.95,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-sun",
+        "fixture": "shelf-main",
+        "at": [
+          -1.62,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-star",
+        "fixture": "shelf-main",
+        "at": [
+          -1.29,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-mountain",
+        "fixture": "shelf-main",
+        "at": [
+          -0.96,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-arch",
+        "fixture": "shelf-main",
+        "at": [
+          -0.63,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-diamond",
+        "fixture": "shelf-main",
+        "at": [
+          -0.3,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-moon",
+        "fixture": "shelf-main",
+        "at": [
+          0.03,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-leaf",
+        "fixture": "shelf-main",
+        "at": [
+          0.36,
+          0.12,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-mg-sun",
+        "fixture": "shelf-main",
+        "at": [
+          -1.62,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-mg-wave",
+        "fixture": "shelf-main",
+        "at": [
+          -1.29,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-mg-star",
+        "fixture": "shelf-main",
+        "at": [
+          -0.96,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-mg-mountain",
+        "fixture": "shelf-main",
+        "at": [
+          -0.63,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-mg-arch",
+        "fixture": "shelf-main",
+        "at": [
+          -0.3,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-mg-diamond",
+        "fixture": "shelf-main",
+        "at": [
+          0.03,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-mg-moon",
+        "fixture": "shelf-main",
+        "at": [
+          0.36,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-mg-leaf",
+        "fixture": "shelf-main",
+        "at": [
+          0.69,
+          0.12,
+          0.37
+        ]
+      },
+      {
+        "type": "memory-dish-sea",
+        "fixture": "shelf-main",
+        "at": [
+          -1.8,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-palm",
+        "fixture": "shelf-main",
+        "at": [
+          -1.44,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-trail",
+        "fixture": "shelf-main",
+        "at": [
+          -1.08,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-neon",
+        "fixture": "shelf-main",
+        "at": [
+          -0.72,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-desk",
+        "fixture": "shelf-main",
+        "at": [
+          -0.36,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-wall",
+        "fixture": "shelf-main",
+        "at": [
+          0,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-wave",
+        "fixture": "shelf-main",
+        "at": [
+          0.36,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-stars",
+        "fixture": "shelf-main",
+        "at": [
+          0.72,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-dish-sea",
+        "fixture": "shelf-main",
+        "at": [
+          0,
+          0.76,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-dish-palm",
+        "fixture": "shelf-main",
+        "at": [
+          0.36,
+          0.76,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-dish-trail",
+        "fixture": "shelf-main",
+        "at": [
+          0.72,
+          0.76,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-dish-neon",
+        "fixture": "shelf-main",
+        "at": [
+          1.08,
+          0.76,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-jn-sea",
+        "fixture": "shelf-main",
+        "at": [
+          -2.0,
+          1.28,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0.06,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-palm",
+        "fixture": "shelf-main",
+        "at": [
+          -1.65,
+          1.28,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-jn-canyon",
+        "fixture": "shelf-main",
+        "at": [
+          -1.3,
+          1.28,
+          0.24
+        ],
+        "rotation": [
+          0,
+          -0.05,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-neon",
+        "fixture": "shelf-main",
+        "at": [
+          -0.95,
+          1.28,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-jn-desk",
+        "fixture": "shelf-main",
+        "at": [
+          -0.6,
+          1.28,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0.08,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-wave",
+        "fixture": "shelf-main",
+        "at": [
+          -0.25,
+          1.28,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-jn-sea",
+        "fixture": "shelf-main",
+        "at": [
+          0.1,
+          1.28,
+          0.24
+        ],
+        "rotation": [
+          0,
+          -0.06,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-palm",
+        "fixture": "shelf-main",
+        "at": [
+          0.45,
+          1.28,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-jn-canyon",
+        "fixture": "shelf-main",
+        "at": [
+          0.8,
+          1.28,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-jn-neon",
+        "fixture": "shelf-main",
+        "at": [
+          1.15,
+          1.28,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0.05,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-desk",
+        "fixture": "shelf-main",
+        "at": [
+          1.5,
+          1.28,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-jn-wave",
+        "fixture": "shelf-main",
+        "at": [
+          1.85,
+          1.28,
+          0.24
+        ],
+        "rotation": [
+          0,
+          -0.07,
+          0
+        ]
+      },
+      {
+        "type": "memory-cs-sea",
+        "fixture": "shelf-main",
+        "at": [
+          -1.7,
+          1.92,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-cs-palm",
+        "fixture": "shelf-main",
+        "at": [
+          -1.1,
+          1.92,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-cs-canyon",
+        "fixture": "shelf-main",
+        "at": [
+          -0.5,
+          1.92,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-cs-neon",
+        "fixture": "shelf-main",
+        "at": [
+          0.1,
+          1.92,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-cs-desk",
+        "fixture": "shelf-main",
+        "at": [
+          -1.4,
+          1.92,
+          0.38
+        ]
+      },
+      {
+        "type": "memory-cs-wall",
+        "fixture": "shelf-main",
+        "at": [
+          -0.8,
+          1.92,
+          0.38
+        ]
+      },
+      {
+        "type": "memory-cs-wave",
+        "fixture": "shelf-main",
+        "at": [
+          -0.2,
+          1.92,
+          0.38
+        ]
+      },
+      {
+        "type": "memory-cs-wood",
+        "fixture": "shelf-main",
+        "at": [
+          0.4,
+          1.92,
+          0.38
+        ]
+      },
+      {
+        "type": "memory-pin-sun",
+        "fixture": "shelf-main",
+        "at": [
+          -1.7,
+          2.458,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0,
+          0.15
+        ]
+      },
+      {
+        "type": "memory-pin-wave",
+        "fixture": "shelf-main",
+        "at": [
+          -1.25,
+          2.458,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-pin-star",
+        "fixture": "shelf-main",
+        "at": [
+          -0.8,
+          2.458,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-pin-mountain",
+        "fixture": "shelf-main",
+        "at": [
+          -0.35,
+          2.458,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0,
+          0.12
+        ]
+      },
+      {
+        "type": "memory-pin-neon",
+        "fixture": "shelf-main",
+        "at": [
+          0.1,
+          2.458,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-pin-diamond",
+        "fixture": "shelf-main",
+        "at": [
+          0.55,
+          2.458,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.12
+        ]
+      },
+      {
+        "type": "memory-pin-moon",
+        "fixture": "shelf-main",
+        "at": [
+          1.0,
+          2.458,
+          0.24
+        ]
+      },
+      {
+        "type": "memory-pin-cactus",
+        "fixture": "shelf-main",
+        "at": [
+          1.45,
+          2.458,
+          0.24
+        ],
+        "rotation": [
+          0,
+          0,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-plate-sun",
+        "fixture": "shelf-main",
+        "at": [
+          0.6,
+          2.555,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-plate-palm",
+        "fixture": "shelf-main",
+        "at": [
+          1.0,
+          2.555,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-plate-canyon",
+        "fixture": "shelf-main",
+        "at": [
+          1.4,
+          2.555,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-plate-desk",
+        "fixture": "shelf-main",
+        "at": [
+          1.8,
+          2.555,
+          0.4
+        ]
+      },
+      {
+        "type": "memory-kc-sun",
+        "fixture": "pegboard",
+        "at": [
+          -0.35,
+          0.133,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-wave",
+        "fixture": "pegboard",
+        "at": [
+          -0.15,
+          0.133,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-mountain",
+        "fixture": "pegboard",
+        "at": [
+          0.05,
+          0.133,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-star",
+        "fixture": "pegboard",
+        "at": [
+          0.25,
+          0.133,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-diamond",
+        "fixture": "pegboard",
+        "at": [
+          0.45,
+          0.133,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-arch",
+        "fixture": "pegboard",
+        "at": [
+          -0.35,
+          0.433,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-moon",
+        "fixture": "pegboard",
+        "at": [
+          -0.2,
+          0.433,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-leaf",
+        "fixture": "pegboard",
+        "at": [
+          0,
+          0.433,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-cactus",
+        "fixture": "pegboard",
+        "at": [
+          0.2,
+          0.433,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-disc",
+        "fixture": "pegboard",
+        "at": [
+          0.4,
+          0.433,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-neon",
+        "fixture": "pegboard",
+        "at": [
+          -0.3,
+          0.733,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-zig",
+        "fixture": "pegboard",
+        "at": [
+          -0.1,
+          0.733,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-sun",
+        "fixture": "pegboard",
+        "at": [
+          0.1,
+          0.733,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-wave",
+        "fixture": "pegboard",
+        "at": [
+          0.3,
+          0.733,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-star",
+        "fixture": "pegboard",
+        "at": [
+          -0.2,
+          0.933,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-kc-mountain",
+        "fixture": "pegboard",
+        "at": [
+          0.2,
+          0.933,
+          0.05
+        ]
+      },
+      {
+        "type": "memory-pin-sun",
+        "fixture": "pegboard",
+        "at": [
+          -0.35,
+          0.038,
+          0.06
+        ],
+        "rotation": [
+          0,
+          0,
+          0.2
+        ]
+      },
+      {
+        "type": "memory-pin-wave",
+        "fixture": "pegboard",
+        "at": [
+          -0.1,
+          0.038,
+          0.06
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.15
+        ]
+      },
+      {
+        "type": "memory-pin-star",
+        "fixture": "pegboard",
+        "at": [
+          0.15,
+          0.038,
+          0.06
+        ]
+      },
+      {
+        "type": "memory-pin-cactus",
+        "fixture": "pegboard",
+        "at": [
+          0.4,
+          0.038,
+          0.06
+        ],
+        "rotation": [
+          0,
+          0,
+          0.18
+        ]
+      },
+      {
+        "type": "memory-kc-sun",
+        "fixture": "rail",
+        "at": [
+          -0.24,
+          1.733,
+          0
+        ]
+      },
+      {
+        "type": "memory-kc-wave",
+        "fixture": "rail",
+        "at": [
+          -0.12,
+          1.733,
+          0
+        ]
+      },
+      {
+        "type": "memory-kc-star",
+        "fixture": "rail",
+        "at": [
+          0,
+          1.733,
+          0
+        ]
+      },
+      {
+        "type": "memory-kc-mountain",
+        "fixture": "rail",
+        "at": [
+          0.12,
+          1.733,
+          0
+        ]
+      },
+      {
+        "type": "memory-kc-diamond",
+        "fixture": "rail",
+        "at": [
+          0.24,
+          1.733,
+          0
+        ]
+      },
+      {
+        "type": "memory-kc-arch",
+        "fixture": "rail",
+        "at": [
+          0.3,
+          1.733,
+          0
+        ]
+      },
+      {
+        "type": "memory-plate-sun",
+        "fixture": "worktable",
+        "at": [
+          -1.47,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-palm",
+        "fixture": "worktable",
+        "at": [
+          -1.05,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-canyon",
+        "fixture": "worktable",
+        "at": [
+          -0.63,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-neon",
+        "fixture": "worktable",
+        "at": [
+          -0.21,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-desk",
+        "fixture": "worktable",
+        "at": [
+          0.21,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-wall",
+        "fixture": "worktable",
+        "at": [
+          0.63,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-wave",
+        "fixture": "worktable",
+        "at": [
+          1.05,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-stars",
+        "fixture": "worktable",
+        "at": [
+          1.47,
+          0.965,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-plate-sun",
+        "fixture": "worktable",
+        "at": [
+          -1.47,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-plate-palm",
+        "fixture": "worktable",
+        "at": [
+          -1.05,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-plate-canyon",
+        "fixture": "worktable",
+        "at": [
+          -0.63,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-plate-neon",
+        "fixture": "worktable",
+        "at": [
+          -0.21,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-plate-desk",
+        "fixture": "worktable",
+        "at": [
+          0.21,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-plate-wall",
+        "fixture": "worktable",
+        "at": [
+          0.63,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-plate-wave",
+        "fixture": "worktable",
+        "at": [
+          1.05,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-plate-stars",
+        "fixture": "worktable",
+        "at": [
+          1.47,
+          0.965,
+          -0.22
+        ]
+      },
+      {
+        "type": "memory-dish-sea",
+        "fixture": "worktable",
+        "at": [
+          -1.1,
+          0.91,
+          -0.55
+        ]
+      },
+      {
+        "type": "memory-dish-palm",
+        "fixture": "worktable",
+        "at": [
+          -0.35,
+          0.91,
+          -0.55
+        ]
+      },
+      {
+        "type": "memory-dish-trail",
+        "fixture": "worktable",
+        "at": [
+          0.4,
+          0.91,
+          -0.55
+        ]
+      },
+      {
+        "type": "memory-dish-neon",
+        "fixture": "worktable",
+        "at": [
+          1.15,
+          0.91,
+          -0.55
+        ]
+      },
+      {
+        "type": "memory-cs-sea",
+        "fixture": "worktable",
+        "at": [
+          -1.2,
+          0.91,
+          0.5
+        ]
+      },
+      {
+        "type": "memory-cs-palm",
+        "fixture": "worktable",
+        "at": [
+          -0.4,
+          0.91,
+          0.5
+        ]
+      },
+      {
+        "type": "memory-cs-canyon",
+        "fixture": "worktable",
+        "at": [
+          0.4,
+          0.91,
+          0.5
+        ]
+      },
+      {
+        "type": "memory-cs-neon",
+        "fixture": "worktable",
+        "at": [
+          1.2,
+          0.91,
+          0.5
+        ]
+      },
+      {
+        "type": "memory-cloth-diamond",
+        "fixture": "cloth-table",
+        "at": [
+          0,
+          0.805,
+          0
+        ],
+        "rotation": [
+          0,
+          0.0,
+          0
+        ]
+      },
+      {
+        "type": "memory-cloth-dots",
+        "fixture": "table-cloth",
+        "at": [
+          0,
+          0.755,
+          0
+        ],
+        "rotation": [
+          0,
+          0.0,
+          0
+        ]
+      },
+      {
+        "type": "memory-cs-desk",
+        "fixture": "table-cloth",
+        "at": [
+          -0.8,
+          0.812,
+          0.3
+        ]
+      },
+      {
+        "type": "memory-cs-wall",
+        "fixture": "table-cloth",
+        "at": [
+          0.8,
+          0.812,
+          0.3
+        ]
+      },
+      {
+        "type": "memory-dish-wall",
+        "fixture": "table-cloth",
+        "at": [
+          -0.8,
+          0.812,
+          -0.3
+        ]
+      },
+      {
+        "type": "memory-dish-wave",
+        "fixture": "table-cloth",
+        "at": [
+          0.8,
+          0.812,
+          -0.3
+        ]
+      },
+      {
+        "type": "memory-jn-sea",
+        "fixture": "table-cloth",
+        "at": [
+          -0.9,
+          0.752,
+          0.28
+        ],
+        "rotation": [
+          0.15,
+          0,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-palm",
+        "fixture": "table-cloth",
+        "at": [
+          0.85,
+          0.752,
+          0.28
+        ],
+        "rotation": [
+          -0.15,
+          0,
+          0
+        ]
+      },
+      {
+        "type": "memory-cloth-stars",
+        "fixture": "cloth-table",
+        "at": [
+          0.1,
+          1.187,
+          0
+        ],
+        "rotation": [
+          0,
+          0.0,
+          0
+        ]
+      },
+      {
+        "type": "memory-pin-neon",
+        "fixture": "trestle-small",
+        "at": [
+          -0.45,
+          0.77,
+          0.15
+        ],
+        "rotation": [
+          0,
+          0,
+          0.2
+        ]
+      },
+      {
+        "type": "memory-pin-diamond",
+        "fixture": "trestle-small",
+        "at": [
+          -0.26,
+          0.77,
+          0.15
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.15
+        ]
+      },
+      {
+        "type": "memory-pin-moon",
+        "fixture": "trestle-small",
+        "at": [
+          -0.07,
+          0.77,
+          0.15
+        ]
+      },
+      {
+        "type": "memory-pin-mountain",
+        "fixture": "trestle-small",
+        "at": [
+          0.12,
+          0.77,
+          0.15
+        ],
+        "rotation": [
+          0,
+          0,
+          0.18
+        ]
+      },
+      {
+        "type": "memory-pin-wave",
+        "fixture": "trestle-small",
+        "at": [
+          0.31,
+          0.77,
+          0.15
+        ]
+      },
+      {
+        "type": "memory-pin-star",
+        "fixture": "trestle-small",
+        "at": [
+          0.5,
+          0.77,
+          0.15
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.2
+        ]
+      },
+      {
+        "type": "memory-kc-leaf",
+        "fixture": "trestle-small",
+        "at": [
+          -0.2,
+          0.752,
+          -0.18
+        ],
+        "rotation": [
+          0,
+          0.3,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-kc-cactus",
+        "fixture": "trestle-small",
+        "at": [
+          0.25,
+          0.752,
+          -0.18
+        ],
+        "rotation": [
+          0,
+          -0.25,
+          0.08
+        ]
+      },
+      {
+        "type": "memory-mg-sun",
+        "fixture": "trestle-small",
+        "at": [
+          -0.3,
+          0.752,
+          -0.3
+        ]
+      },
+      {
+        "type": "memory-mg-star",
+        "fixture": "trestle-small",
+        "at": [
+          0.2,
+          0.752,
+          -0.3
+        ]
+      },
+      {
+        "type": "memory-pen-classic",
+        "fixture": "ledge",
+        "at": [
+          -0.85,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-classic",
+        "fixture": "ledge",
+        "at": [
+          -0.75,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-cap",
+        "fixture": "ledge",
+        "at": [
+          -0.65,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-cap",
+        "fixture": "ledge",
+        "at": [
+          -0.55,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-hex",
+        "fixture": "ledge",
+        "at": [
+          -0.45,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-hex",
+        "fixture": "ledge",
+        "at": [
+          -0.35,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-mini",
+        "fixture": "ledge",
+        "at": [
+          -0.25,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-mini",
+        "fixture": "ledge",
+        "at": [
+          -0.15,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-quill",
+        "fixture": "ledge",
+        "at": [
+          -0.05,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-quill",
+        "fixture": "ledge",
+        "at": [
+          0.05,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-palm",
+        "fixture": "ledge",
+        "at": [
+          0.15,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-palm",
+        "fixture": "ledge",
+        "at": [
+          0.25,
+          0.52,
+          0
+        ]
+      },
+      {
+        "type": "memory-pen-classic",
+        "fixture": "ledge",
+        "at": [
+          -0.35,
+          0.52,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pen-cap",
+        "fixture": "ledge",
+        "at": [
+          -0.15,
+          0.52,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pen-hex",
+        "fixture": "ledge",
+        "at": [
+          0.05,
+          0.52,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pen-mini",
+        "fixture": "ledge",
+        "at": [
+          0.15,
+          0.52,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pen-quill",
+        "fixture": "ledge",
+        "at": [
+          0.25,
+          0.52,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pen-palm",
+        "fixture": "ledge",
+        "at": [
+          0.3,
+          0.52,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-cs-desk",
+        "fixture": "ledge",
+        "at": [
+          -0.55,
+          0.58,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-cs-wall",
+        "fixture": "ledge",
+        "at": [
+          -0.25,
+          0.58,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-cs-wave",
+        "fixture": "ledge",
+        "at": [
+          0.05,
+          0.58,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-cs-wood",
+        "fixture": "ledge",
+        "at": [
+          0.2,
+          0.58,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-mg-wave",
+        "fixture": "plinth-ent",
+        "at": [
+          -0.2,
+          0.62,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-mg-mountain",
+        "fixture": "plinth-ent",
+        "at": [
+          0.02,
+          0.62,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-mg-arch",
+        "fixture": "plinth-ent",
+        "at": [
+          -0.02,
+          0.62,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-mg-leaf",
+        "fixture": "plinth-ent",
+        "at": [
+          0.2,
+          0.62,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-cs-canyon",
+        "fixture": "plinth-ent",
+        "at": [
+          -0.2,
+          0.68,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-cs-neon",
+        "fixture": "plinth-ent",
+        "at": [
+          0.12,
+          0.68,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-pin-sun",
+        "fixture": "plinth-ent",
+        "at": [
+          -0.25,
+          0.648,
+          0.18
+        ],
+        "rotation": [
+          0,
+          0,
+          0.25
+        ]
+      },
+      {
+        "type": "memory-pin-wave",
+        "fixture": "plinth-ent",
+        "at": [
+          -0.05,
+          0.648,
+          0.18
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.2
+        ]
+      },
+      {
+        "type": "memory-pin-star",
+        "fixture": "plinth-ent",
+        "at": [
+          0.15,
+          0.648,
+          0.18
+        ]
+      },
+      {
+        "type": "memory-pin-mountain",
+        "fixture": "plinth-ent",
+        "at": [
+          0.3,
+          0.648,
+          0.18
+        ],
+        "rotation": [
+          0,
+          0,
+          0.2
+        ]
+      },
+      {
+        "type": "memory-kc-moon",
+        "fixture": "plinth-ent",
+        "at": [
+          0.15,
+          0.63,
+          -0.2
+        ],
+        "rotation": [
+          0,
+          0.4,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-jn-neon",
+        "fixture": "crate-low",
+        "at": [
+          -0.25,
+          0.55,
+          0.1
+        ],
+        "rotation": [
+          0,
+          0.15,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-desk",
+        "fixture": "crate-low",
+        "at": [
+          0.1,
+          0.55,
+          0.1
+        ],
+        "rotation": [
+          0,
+          -0.1,
+          0
+        ]
+      },
+      {
+        "type": "memory-jn-canyon",
+        "fixture": "crate-low",
+        "at": [
+          0.35,
+          0.55,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-jn-wave",
+        "fixture": "crate-low",
+        "at": [
+          -0.05,
+          0.56,
+          0.16
+        ],
+        "rotation": [
+          0.12,
+          0,
+          0
+        ]
+      },
+      {
+        "type": "memory-pc-sea",
+        "fixture": "crate-low",
+        "at": [
+          -0.3,
+          0.565,
+          0.2
+        ],
+        "rotation": [
+          0.2,
+          -0.1,
+          0
+        ]
+      },
+      {
+        "type": "memory-pc-palm",
+        "fixture": "crate-low",
+        "at": [
+          0.0,
+          0.565,
+          0.2
+        ],
+        "rotation": [
+          0.2,
+          0,
+          0
+        ]
+      },
+      {
+        "type": "memory-pc-canyon",
+        "fixture": "crate-low",
+        "at": [
+          0.3,
+          0.565,
+          0.2
+        ],
+        "rotation": [
+          0.2,
+          0.1,
+          0
+        ]
+      },
+      {
+        "type": "memory-pin-neon",
+        "fixture": "basket",
+        "at": [
+          -0.15,
+          0.51,
+          0.1
+        ],
+        "rotation": [
+          0,
+          0,
+          0.3
+        ]
+      },
+      {
+        "type": "memory-pin-diamond",
+        "fixture": "basket",
+        "at": [
+          0.05,
+          0.51,
+          0.1
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.25
+        ]
+      },
+      {
+        "type": "memory-pin-moon",
+        "fixture": "basket",
+        "at": [
+          0.2,
+          0.51,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pin-cactus",
+        "fixture": "basket",
+        "at": [
+          -0.1,
+          0.51,
+          0.18
+        ],
+        "rotation": [
+          0,
+          0,
+          0.22
+        ]
+      },
+      {
+        "type": "memory-pin-wave",
+        "fixture": "basket",
+        "at": [
+          0.12,
+          0.51,
+          0.18
+        ]
+      },
+      {
+        "type": "memory-pin-sun",
+        "fixture": "basket",
+        "at": [
+          0.28,
+          0.51,
+          0.18
+        ],
+        "rotation": [
+          0,
+          0,
+          -0.18
+        ]
+      },
+      {
+        "type": "memory-mg-star",
+        "fixture": "basket",
+        "at": [
+          -0.15,
+          0.5,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-mg-diamond",
+        "fixture": "basket",
+        "at": [
+          0.05,
+          0.5,
+          -0.1
+        ]
+      },
+      {
+        "type": "memory-mg-moon",
+        "fixture": "basket",
+        "at": [
+          -0.05,
+          0.5,
+          -0.2
+        ]
+      },
+      {
+        "type": "memory-mg-leaf",
+        "fixture": "basket",
+        "at": [
+          0.2,
+          0.5,
+          -0.2
+        ]
+      },
+      {
+        "type": "memory-kc-disc",
+        "fixture": "basket",
+        "at": [
+          -0.1,
+          0.51,
+          0.05
+        ],
+        "rotation": [
+          0,
+          0.5,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-kc-neon",
+        "fixture": "basket",
+        "at": [
+          0.15,
+          0.51,
+          0.05
+        ],
+        "rotation": [
+          0,
+          -0.4,
+          0.08
+        ]
+      },
+      {
+        "type": "memory-pr-sea",
+        "at": [
+          3.62,
+          1.95,
+          1.55
+        ],
+        "rotation": [
+          0,
+          -1.5708,
+          0
+        ]
+      },
+      {
+        "type": "memory-pr-palm",
+        "at": [
+          3.62,
+          1.95,
+          -2.0
+        ],
+        "rotation": [
+          0,
+          -1.5708,
+          0
+        ]
+      },
+      {
+        "type": "memory-pr-canyon",
+        "at": [
+          3.62,
+          1.4,
+          1.55
+        ],
+        "rotation": [
+          0,
+          -1.5708,
+          0
+        ]
+      },
+      {
+        "type": "memory-pr-neon",
+        "at": [
+          3.62,
+          1.4,
+          -2.0
+        ],
+        "rotation": [
+          0,
+          -1.5708,
+          0
+        ]
+      },
+      {
+        "type": "memory-pr-desk",
+        "at": [
+          3.62,
+          0.9,
+          1.55
+        ],
+        "rotation": [
+          0,
+          -1.5708,
+          0
+        ]
+      },
+      {
+        "type": "memory-pr-wave",
+        "at": [
+          3.62,
+          0.9,
+          -2.0
+        ],
+        "rotation": [
+          0,
+          -1.5708,
+          0
+        ]
+      },
+      {
+        "type": "mobile-0",
+        "at": [
+          -2.5,
+          3.2,
+          -3.2
+        ],
+        "drop": 0.38
+      },
+      {
+        "type": "mobile-1",
+        "at": [
+          -1.4,
+          3.2,
+          -2.4
+        ],
+        "drop": 0.4
+      },
+      {
+        "type": "mobile-2",
+        "at": [
+          -0.1,
+          3.2,
+          -3.1
+        ],
+        "drop": 0.36
+      },
+      {
+        "type": "mobile-3",
+        "at": [
+          1.3,
+          3.2,
+          -2.3
+        ],
+        "drop": 0.4
+      },
+      {
+        "type": "mobile-4",
+        "at": [
+          2.4,
+          3.2,
+          -3.0
+        ],
+        "drop": 0.38
+      },
+      {
+        "type": "mobile-5",
+        "at": [
+          2.6,
+          3.1,
+          -2.5
+        ],
+        "drop": 0.35
+      },
+      {
+        "type": "card-12",
+        "at": [
+          -3.56,
+          1.7815,
+          -1.05
+        ],
+        "wall": true,
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ]
+      },
+      {
+        "type": "card-13",
+        "at": [
+          -3.56,
+          1.7815,
+          -0.75
+        ],
+        "wall": true,
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ]
+      },
+      {
+        "type": "card-14",
+        "at": [
+          -3.56,
+          1.7815,
+          -0.45
+        ],
+        "wall": true,
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ]
+      },
+      {
+        "type": "card-15",
+        "at": [
+          -3.56,
+          1.7815,
+          -0.15
+        ],
+        "wall": true,
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ]
+      },
+      {
+        "type": "card-16",
+        "at": [
+          -3.56,
+          1.7815,
+          0.15
+        ],
+        "wall": true,
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ]
+      },
+      {
+        "type": "memory-pc-n1",
+        "fixture": "memory-board",
+        "at": [
+          -0.96,
+          0.135,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n2",
+        "fixture": "memory-board",
+        "at": [
+          -0.48,
+          0.135,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n3",
+        "fixture": "memory-board",
+        "at": [
+          0.0,
+          0.135,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n4",
+        "fixture": "memory-board",
+        "at": [
+          0.48,
+          0.135,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n5",
+        "fixture": "memory-board",
+        "at": [
+          0.96,
+          0.135,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n6",
+        "fixture": "memory-board",
+        "at": [
+          -0.96,
+          0.955,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n7",
+        "fixture": "memory-board",
+        "at": [
+          -0.48,
+          0.955,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n8",
+        "fixture": "memory-board",
+        "at": [
+          0.0,
+          0.955,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n9",
+        "fixture": "memory-board",
+        "at": [
+          0.48,
+          0.955,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "memory-pc-n10",
+        "fixture": "memory-board",
+        "at": [
+          0.96,
+          0.955,
+          0.1
+        ],
+        "variation": 0.02
+      },
+      {
+        "type": "card-27",
+        "at": [
+          -3.56,
+          0.9535,
+          -1.05
+        ],
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-28",
+        "at": [
+          -3.56,
+          0.9535,
+          -0.75
+        ],
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-29",
+        "at": [
+          -3.56,
+          0.9535,
+          -0.45
+        ],
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-30",
+        "at": [
+          -3.56,
+          0.9535,
+          -0.15
+        ],
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ],
+        "wall": true
+      },
+      {
+        "type": "card-31",
+        "at": [
+          -3.56,
+          0.9535,
+          0.15
+        ],
+        "rotation": [
+          0,
+          1.5708,
+          0
+        ],
+        "wall": true
+      },
+      {
+        "type": "memory-pc-o1",
+        "fixture": "card-rack",
+        "at": [
+          0.45,
+          0.715,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-o2",
+        "fixture": "card-rack",
+        "at": [
+          0.45,
+          1.295,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-o3",
+        "fixture": "card-rack",
+        "at": [
+          0.45,
+          1.875,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-o4",
+        "fixture": "card-rack",
+        "at": [
+          0.68,
+          0.715,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-o5",
+        "fixture": "card-rack",
+        "at": [
+          0.68,
+          1.295,
+          0.1
+        ]
+      },
+      {
+        "type": "memory-pc-o6",
+        "fixture": "card-rack",
+        "at": [
+          0.68,
+          1.875,
+          0.1
+        ]
+      }
+    ],
+    "views": {
+      "overview": {
+        "pos": [
+          0,
+          1.7,
+          3.6
+        ],
+        "target": [
+          0,
+          1.1,
+          -0.8
+        ],
+        "title": "日落工作室",
+        "copy": "从入口望向中央陶器长台、布艺展示台与 teal 主墙，黄昏暖光铺满全店。",
+        "label": "入口全景"
+      },
+      "memories": {
+        "pos": [
+          -0.8,
+          1.6,
+          3.55
+        ],
+        "target": [
+          -2.45,
+          1.3,
+          3.05
+        ],
+        "title": "回忆照片架",
+        "copy": "AI 四小只的照片化作明信片与墙卡，双层木架与明信片墙层层陈列，每一张都是一段机房里的黄昏。",
+        "label": "陶器长台"
+      },
+      "cards": {
+        "pos": [
+          2.6,
+          1.7,
+          -1.6
+        ],
+        "target": [
+          2.3,
+          1.4,
+          -3.8
+        ],
+        "title": "明信片墙",
+        "copy": "三种媒介的插画明信片与墙卡层层陈列。",
+        "label": "明信片墙"
+      },
+      "ceiling": {
+        "pos": [
+          2.3,
+          2.7,
+          -1.9
+        ],
+        "target": [
+          0.6,
+          1.9,
+          -2.6
+        ],
+        "title": "挂帘与高架",
+        "copy": "织物挂帘、吊灯与高架纸品陈列。",
+        "label": "悬挂层"
+      },
+      "back": {
+        "pos": [
+          -1.2,
+          1.7,
+          -1.9
+        ],
+        "target": [
+          -1.2,
+          1.4,
+          -3.6
+        ],
+        "title": "主陈列墙",
+        "copy": "北墙高架收纳磁贴、碟子、笔记本与杯垫。",
+        "label": "主陈列墙"
+      },
+      "crafts": {
+        "pos": [
+          -2.3,
+          1.72,
+          -0.45
+        ],
+        "target": [
+          -3.5,
+          1.28,
+          -0.45
+        ],
+        "title": "小创作者画廊",
+        "copy": "双层展板十幅人物插画：四位少年与机器人伙伴的机房日常，水粉、拼贴、木刻与织纹四种媒介。",
+        "label": "小创作者画廊"
+      }
+    },
+    "lighting": {
+      "color": "#ffc98a",
+      "sun": [
+        4.8,
+        4.4,
+        0.6
+      ],
+      "target": [
+        0,
+        0.7,
+        0
+      ],
+      "intensity": 2.4,
+      "hemisphere": 0.8,
+      "ambient": 0.35,
+      "fill": 0.55,
+      "pendantPower": 3.2,
+      "environment": 0.35
+    }
+  }
+}
